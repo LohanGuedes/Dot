@@ -1,0 +1,3157 @@
+: 1643141015:0;kill 244521
+: 1643141021:0;kill 244621
+: 1643141028:0;kill 244525
+: 1643144696:0;kill 424789
+: 1643145180:0;kill 431519
+: 1643145203:0;kill 431522
+: 1643149768:0;doom sync 
+: 1643150939:0;kill 427151
+: 1643159321:0;nvidia-xconfig
+: 1643160898:0;man history
+: 1643161848:0;whatis
+: 1643161853:0;man whatis
+: 1643161895:0;whatis history
+: 1643161900:0;whatis history (n)
+: 1643161902:0;whatis history n
+: 1643161911:0;whatis ls
+: 1643161915:0;whatis cd
+: 1643162438:0;mv Roteiro_de_aula Roteiro_de_aula.md
+: 1643163789:0;mkdir Projetinho_pre_criado_pq_vc_ta_lendo_isso
+: 1643163822:0;mkdir BD
+: 1643163832:0;mkdir main
+: 1643165438:0;touch senhas
+: 1643165440:0;touch logins
+: 1643165444:0;vi senhas 
+: 1643165682:0;kill 301445
+: 1643165686:0;kill 301791
+: 1643165690:0;kill 301792
+: 1643165695:0;kill 812
+: 1643165859:0;cat senhas
+: 1643165862:0;cat logins
+: 1643165972:0;chmod -r senhas
+: 1643165989:0;vi senhas
+: 1643166007:0;grep senhas 
+: 1643166013:0;grep 8 senhas
+: 1643166084:0;cd main
+: 1643167180:0;mkdir something
+: 1643167182:0;cd something
+: 1643167192:0;touch something 2
+: 1643167198:0;rm -r something
+: 1643205784:0;cat id_rsa.pub
+: 1643205889:0;mkdir pdf_s
+: 1643205894:0;mkdir projects
+: 1643205960:0;mkdir eu_aceito 
+: 1643206063:0;mv 42/evaluations C/42
+: 1643206067:0;rmdir 42
+: 1643206107:0;cd intra-uuid-7d0ff2a9-a0d2-44aa-bb2f-654a03f9171f-3962800-lguedes
+: 1643206952:0;cp Aula_Bash_42 .
+: 1643206957:0;cd -r Aula_Bash_42 .
+: 1643206963:0;cd Aula_Bash_42 -r .
+: 1643207030:0;cd Projetinho_pre_criado_pq_vc_ta_lendo_isso
+: 1643207032:0;cd BD
+: 1643207046:0;chmod +r senhas 
+: 1643207060:0;cp -R -T Aula_Bash_42 .
+: 1643207088:0;cp -R -T Aula_Bash_42 Aula_bash_teste
+: 1643207106:0;rm  Projetinho_pre_criado_pq_vc_ta_lendo_isso Roteiro_de_aula.md
+: 1643207115:0;rm -r Projetinho_pre_criado_pq_vc_ta_lendo_isso
+: 1643207127:0;cd Aula_bash_teste
+: 1643207150:0;mv Projetinho_pre_criado_pq_vc_ta_lendo_isso nome_de_projeto_mto_fd
+: 1643207948:0;cd C/42
+: 1643207957:0;mkdir git@vogsphere.42.rio:vogsphere/intra-uuid-7d0ff2a9-a0d2-44aa-bb2f-654a03f9171f-3962800-lguedes
+: 1643212197:0;man history 
+: 1643212232:0;history !x 334
+: 1643212236:0;history !x334
+: 1643212244:0;history !334
+: 1643212298:0;history add cd exec
+: 1643217056:0;cd projects
+: 1643217059:0;git clone git@vogsphere.42.rio:vogsphere/intra-uuid-7d0ff2a9-a0d2-44aa-bb2f-654a03f9171f-3962800-lguedes eu_aceito
+: 1643217086:0;git long
+: 1643217218:0;emacs --daemon
+: 1643218872:0;emacs --daemon &
+: 1643218906:0;nvim Dev/C/42/pdf_s
+: 1643220732:0;sudo adb dvices
+: 1643222011:0;man du
+: 1643222069:0;du -lhs Dev
+: 1643222220:0;kill 1340224
+: 1643222708:0;vi .config/zsh/aliases
+: 1643222901:0;man pwd
+: 1643223000:0;man mkdir
+: 1643223093:0;man mv
+: 1643223156:0;man cp
+: 1643223485:0;man rmdir
+: 1643223507:0;cal
+: 1643228481:0;finger 
+: 1643228485:0;man finger
+: 1643229426:0;kill 8342
+: 1643229460:0;yay -S discord-canary
+: 1643238946:0;sudo pacman -S obs-studi
+: 1643238951:0;sudo pacman -S obs-studio
+: 1643239070:0;kill droidcam
+: 1643239073:0;kill 81116
+: 1643239182:0;cd Dev/C/42
+: 1643240263:0;!vi
+: 1643240265:0;!vim
+: 1643240542:0;kill 202241
+: 1643241303:0;kill 231690
+: 1643242549:0;man cat
+: 1643242568:0;spt
+: 1643242629:0;sudo pacman -S figlet toilet
+: 1643242637:0;sudo pacman -S figlet 
+: 1643242696:0;cmatrix
+: 1643242716:0;figlet Hacker Class
+: 1643242744:0;figlet Tutorial basico de Bash <3
+: 1643242753:0;figlet Tutorial basico de Bash
+: 1643242783:0;figlet Tutorial basico de Bash :3
+: 1643242789:0;figlet Curso Hacker O.o
+: 1643243068:0;kill 247406
+: 1643243616:0;ls .
+: 1643243629:0;ls ~/Downloads/
+: 1643243667:0;touch .isso_sera_escondido.txt
+: 1643243724:0;touch Roteiro_de_aula.md
+: 1643243751:0;ls -a 
+: 1643243758:0;ls -l -a 
+: 1643243774:0;ls -la 
+: 1643243820:0;wget https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.10/amd64/intel/5/pop-os_21.10_amd64_intel_5.iso
+: 1643243880:0;wget --limit-rate=20K https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.10/amd64/intel/5/pop-os_21.10_amd64_intel_5.iso 
+: 1643243893:0;rm pop-os_21.10_amd64_intel_5.iso
+: 1643244055:0;cat Roteiro_de_aula.md
+: 1643244072:0;cat -T Roteiro_de_aula.md
+: 1643244140:0;cat -T -E Roteiro_de_aula.md
+: 1643244204:0;mkdir novo_diretorio
+: 1643244227:0;mv Roteiro_de_aula.md novo_diretorio
+: 1643244230:0;ls novo_diretorio
+: 1643244242:0;cd Aula_bash_
+: 1643244244:0;cd Aula_Bash_42
+: 1643244280:0;mv Projetinho_pre_criado_pq_vc_ta_lendo_isso eu_aceito
+: 1643244308:0;mv .isso_sera_escondido.txt n_esta_mais_escondido.txt
+: 1643244350:0;ls eu_aceito
+: 1643244354:0;rm eu_aceito
+: 1643244363:0;rmdir eu_aceito
+: 1643244375:0;rmdir novo_diretorio
+: 1643244384:0;mkdir diretorio_vazio
+: 1643244391:0;rmdir diretorio_vazio
+: 1643244526:0;git clone https://github.com/LohanGuedes/Learning-Rust- 
+: 1643244537:0;rm -r Learning-Rust-
+: 1643244609:0;whatis cat
+: 1643244710:0;!390
+: 1643244727:0;!389
+: 1643244832:0;cd Documents/Aula_Bash_42
+: 1643244861:0;whatis touch
+: 1643244902:0;touch n_esta_mais_escondido.txt
+: 1643244921:0;mkdir dlskafhadsjf
+: 1643244960:0;cp -t novo_diretorio dlskafhadsjf
+: 1643244977:0;cp -r -t novo_diretorio dlskafhadsjf
+: 1643245051:0;ls dlskafhadsjf
+: 1643311783:0;rm -r 2022-01-26\ 21-06-54.mkv
+: 1643312673:0;yay -R discord-canary
+: 1643314409:0;sudo pacman -S steam
+: 1643321507:0;yay -S  nuclear-player-bin
+: 1643326245:0;ll 
+: 1643327217:0;gcc 
+: 1643327219:0;man gcc
+: 1643327261:0;gdb 
+: 1643327833:0;cat -TE
+: 1643327850:0;cd Dev/C/beecrowd
+: 1643327852:0;cd iniciante/
+: 1643328228:0;emacsclient --eval ("kill-emacs")
+: 1643328242:0;emacsclient --eval "(kill-emacs)"
+: 1643328349:0;emacsclient --e "(kill-emacs)"
+: 1643328354:0;emacsclient
+: 1643329190:0;cat -TE main.c
+: 1643329900:0;cat -TE ../main.c
+: 1643329903:0;cat -TE main.c 
+: 1643332287:0;Kill 
+: 1643332320:0;kill 14401 14412 14413 14426 14454 1585445
+: 1643332328:0;kill 14401
+: 1643333452:0;git clone https://github.com/ggjulio/42header_emacs.git
+: 1643333454:0;cd 42header_emacs
+: 1643333478:0;./set_header.sh lguedes lguedes@42.fr
+: 1643333492:0;rm -rf 42header_emacs
+: 1643336106:0;mkdir .vim
+: 1643336122:0;mkdir plugins 
+: 1643336124:0;cd plugins
+: 1643336131:0;mv plugins plugin
+: 1643336170:0;wget https://github.com/42Paris/42header/blob/master/plugin/stdheader.vim
+: 1643336199:0;vi ~/.zshrc
+: 1643336293:0;wget https://raw.githubusercontent.com/42Paris/42header/master/set_header.sh
+: 1643336311:0;chmod u+x set_header.sh
+: 1643336315:0;./set_header.sh
+: 1643336344:0;rm -r set_header.sh
+: 1643336477:0;rm -r stdheader.vim
+: 1643336543:0;iniciante
+: 1643337043:0;cd C/beecrowd/iniciante/
+: 1643339649:0;mkdir ~/pasta_teste
+: 1643339670:0;cp *.el ~/pasta_teste
+: 1643339676:0;cd pasta_teste/
+: 1643339779:0;sudo pacman -S tree
+: 1643339789:0;tree .
+: 1643339851:0;history 
+: 1643339863:0;!405
+: 1643339893:0;history
+: 1643341271:0;/usr/bin/setxkbmap -option "swapecase:caps"
+: 1643393550:0;mkdir teste
+: 1643394768:0;cd Dev/C/teste
+: 1643396606:0;sudo pacman -S bat
+: 1643396652:0;yay -S bat 
+: 1643397105:0;vi zsh_history
+: 1643400892:0;cd teste
+: 1643401297:0;clang main.c -o test
+: 1643401427:0;cat main.c\
+: 1643401429:0;vim main.c
+: 1643401457:0;720 / 6
+: 1643401523:0;rm teste
+: 1643401527:0;rm -r teste
+: 1643402327:0;cd .con
+: 1643402352:0;cd doom
+: 1643402361:0;xit
+: 1643402365:0;nvim main.
+: 1643402399:0;locate vim.lsp.diagnostic.show.line_diagnostics
+: 1643402404:0;vim.lsp.diagnostic.show.line_diagnostics.vim
+: 1643402416:0;locate vim.lsp
+: 1643402422:0;rg vim.lsp.diagnostic.show.line_diagnostics
+: 1643402440:0;nvim lua/doom/extras/autocmds/init.lua
+: 1643402484:0;cd Dev/test
+: 1643409219:0;kill 137612
+: 1643411878:0;kill 235904
+: 1643416173:0;git clone https://github.com/LohanGuedes/42sp_piscine2021_march/blob/master/done-Projects-Pscine42/shell00/ex00/z
+: 1643416194:0;git clone https://github.com/LohanGuedes/42sp_piscine2021_march
+: 1643416609:0;mkdir ecole42_rio
+: 1643416648:0;rm -r eu_aceito
+: 1643416657:0;mkdir Eu_aceito
+: 1643416679:0;mkdir Semana_0
+: 1643416684:0;mkdir Semana_1
+: 1643416688:0;mkdir Semana_2
+: 1643416716:0;mkdir Shell
+: 1643416759:0;mkdir shell_00
+: 1643416762:0;mkdir shell_01
+: 1643416765:0;cd shell_0
+: 1643416781:0;mv ~/Downloads/shell_00.pdf .
+: 1643417291:0;sudo pacman -R nuclear-player-bin
+: 1643417616:0;ls -=a
+: 1643417643:0;sudo pacman -S flatpak
+: 1643417680:0;flatpak
+: 1643417687:0;reboot 
+: 1643418333:0;flatpak org.js.nuclear.Nuclear.flatpakref
+: 1643418402:0;flatpak install flathub org.js.nuclear.Nuclear
+: 1643418599:0;cal 
+: 1643418606:0;cal fevereiro
+: 1643418632:0;cal fevereiro 18
+: 1643418635:0;cal fevereiro 
+: 1643419703:0;cd Cpp
+: 1643419706:0;touch main.cpp
+: 1643419879:0;nvim main.cpp
+: 1643420275:0;vi main.cpp
+: 1643420291:0;gcc main.cpp -o main
+: 1643420329:0;gcc main.cpp -o -static main
+: 1643420338:0;clang main.cpp -o main 
+: 1643420343:0;clang main.cpp -o main -static
+: 1643420349:0;clang main.cpp -o main -v
+: 1643420365:0;gcc check.c -o ./bin/check -static
+: 1643420379:0;gcc main.c -o main -static
+: 1643420387:0;gcc main.cpp -o main -static
+: 1643420475:0;vim main.cpp
+: 1643422098:0;mkdir bshk
+: 1643424318:0;clang main.cpp -o main
+: 1643424371:0;clang main.c -o main
+: 1643424488:0;vim main
+: 1643424502:0;kill 88959
+: 1643425674:0;cat -T main.c
+: 1643426230:0;kill Dis*
+: 1643426237:0;kill 4708 
+: 1643426242:0;kill 
+: 1643426266:0;kill 3960 4133 4134 4520 
+: 1643426274:0;kill 4155
+: 1643426279:0;kill 4708
+: 1643426283:0;gtop
+: 1643426296:0;sudo pacman -S htop
+: 1643426369:0;gcc main.c -o main -lm
+: 1643426548:0;yay -S bat
+: 1643426569:0;bat -TEA main.c
+: 1643426574:0;man bat
+: 1643426630:0;bat --tabs main.c
+: 1643426637:0;bar main.c
+: 1643426965:0;cat -TEA main.c
+: 1643427388:0;cd Dev/C/ls
+: 1643427390:0;cd Dev/C/
+: 1643453974:0;rm main.cc
+: 1643454150:0;git config --global user.name lguedes
+: 1643454169:0;git remote add origin git@github.com:LohanGuedes/42rio_basecamp_jan2022.git\
+git branch -M main\
+git push -u origin main
+: 1643454209:0;cd ecole42_riod ..
+: 1643454227:0;git commit -m 'Added shell00.'
+: 1643454233:0;git files
+: 1643454237:0;git ls-files
+: 1643454256:0;cd Semana_0
+: 1643454265:0;mkdir eu_aceito
+: 1643454271:0;cd eu_aceito
+: 1643454273:0;mkdir eu
+: 1643454300:0;wget https://projects.intra.42.fr/uploads/document/document/6954/aceito.txt
+: 1643454324:0;git commit -m 'Added eu_aceito'
+: 1643454589:0;cd C/
+: 1643457275:0;mkdir ex01
+: 1643457278:0;mkdir ex02
+: 1643457286:0;mkdir ex03
+: 1643457289:0;mkdir ex04
+: 1643457351:0;touch ex01/testShell00.tar
+: 1643457382:0;rm -r ex01/testShell00.tar 
+: 1643457391:0;cat ex00/z
+: 1643493606:0;lsd -ump
+: 1643493612:0;!ls -ump
+: 1643494570:0;git commit -m 'Shell00 - finished ex03 (midLS)'
+: 1643494675:0;git-short-log
+: 1643494776:0;git log --pretty=format:"%h"
+: 1643494830:0;git log -n 5 --pretty=format:"%h"
+: 1643494850:0;git log -n 5 --pretty="%h"
+: 1643494895:0;git log -n 5 --pretty=format:"%H"
+: 1643496594:0;sudo pacman -S npm
+: 1643497984:0;rustup
+: 1643498252:0;ls Shell/shell_00
+: 1643498642:0;sudo pacman -S nuclearjs
+: 1643498696:0;yay -S yay -s nuclear-player-git
+: 1643498870:0;flatpak uninstall nuclear
+: 1643498881:0;yay -S yay -s nuclear-player-bin
+: 1643499215:0;sudo pacman -S nodejs
+: 1643499609:0;yay -s nuclear-player-git
+: 1643499640:0;yay -s nuclear-player-bin
+: 1643499861:0;mkdir ex05
+: 1643500159:0;mkdir ex0{6..8}
+: 1643500428:0;ls -l.a
+: 1643500448:0;git commit -m 'Shell00 - finished ex04'
+: 1643500905:0;ls -l;a
+: 1643500951:0;git gitignore
+: 1643500954:0;gitignore
+: 1643501000:0;git check-ignore
+: 1643501018:0;touch .git_ignore
+: 1643501045:0;rm -r .git_ignore
+: 1643501393:0;cd Semana_1/Shell/shell_00/ex05
+: 1643501397:0;chmod +x git_commit.sh
+: 1643501404:0;chmod +x git_ignore.sh
+: 1643501539:0;grep !!
+: 1643501575:0;git status --ignored
+: 1643501595:0;git status --ignored -s | grep '!!' | cut -c 4-
+: 1643501604:0;git check-ignore *
+: 1643501752:0;cat ..
+: 1643501772:0;cat ~/Dev/ecole42_rio/Semana_1/Shell/shell_00/ex03
+: 1643501774:0;cat ~/Dev/ecole42_rio/Semana_1/Shell/shell_00/ex03/midLS
+: 1643503506:0;vi config
+: 1643503594:0;git clone https://gitlab.com/dwt1/wallpapers
+: 1643503989:0;bash ls-ump
+: 1643503995:0;sh ls-ump
+: 1643504000:0;bash ls - ump
+: 1643504769:0;touch testShell00
+: 1643504824:0;touch --date="2022-06-01 23:42"
+: 1643504827:0;touch --date="2022-06-01 23:42" testShell00
+: 1643504863:0;truncate --size 40 testShell00
+: 1643515845:0;cd Documents/
+: 1643515856:0;mkdir Cronograma
+: 1643515860:0;cd Cronograma
+: 1643515906:0;touch cronograma_basecamp.md
+: 1643516450:0;sudo pacman -S marked 
+: 1643521383:0;cd Shell/shell_00/ex03
+: 1643521386:0;cat midLS
+: 1643521403:0;cat ex05/git_ignore.sh 
+: 1643524044:0;kill 320889 320306 320312 320313 320816 320825 320871 320954
+: 1643524089:0;yay -S discord-development
+: 1643524102:0;yay -S discord_arch_electron
+: 1643524342:0;cd pasta_teste
+: 1643524947:0;ed
+: 1643525771:0;vimtutor
+: 1643526494:0;cd pasta_tested
+: 1643526499:0;cd Downloads/
+: 1643527613:0;kill 537675
+: 1643527769:0;vim lunar-vim-notes.txt
+: 1643528922:0;OA
+: 1643528923:0;nvim lunar-vim-notes.txt
+: 1643529165:0;vi quit
+: 1643529400:0;vi homework.md
+: 1643530117:0;kill 516579
+: 1643546119:0;vi vim-notes.md
+: 1643546379:0;sudo pacman -S chromium
+: 1643547353:0;wget https://prosettings.net/configs/m0nesy.zip
+: 1643548217:0;sudo pacman -S nvidia-settings
+: 1643556414:0;man cat 
+: 1643556690:0;git clone https://media.discordapp.net/attachments/935922257438593024/935923382539649044/unknown.png?width=590&height=332
+: 1643556703:0;git clone git@vogsphere.42.rio:vogsphere/intra-uuid-7d0ff2a9-a0d2-44aa-bb2f-654a03f9171f-3962800-lguedes
+: 1643557298:0;ssh-keygen
+: 1643557320:0;cat .ssh/id_rsa.pub
+: 1643557471:0;a                                                                                âƒ´€âƒµ¯\
+\
+ls -a
+: 1643558059:0;cd Dev/C/bshk
+: 1643558565:0;man truncate 
+: 1643558639:0;man fallocate 
+: 1643558979:0;man truncate
+: 1643559183:0;rm C
+: 1643559190:0;rm -rf 42
+: 1643559203:0;mkdir beevcrowd
+: 1643559212:0;mv beevcrowd beecrowd
+: 1643559215:0;cd beecrowd
+: 1643559222:0;mkdir iniciante
+: 1643559225:0;cd iniciante
+: 1643559312:0;mkdir 10{0..37}
+: 1643559327:0;rm *
+: 1643559350:0;mkdir 100{0..10}
+: 1643559363:0;rm 10010
+: 1643559367:0;rm -r 10010
+: 1643559387:0;mkdir 10{10..37}
+: 1643559532:0;cd 1001
+: 1643559576:0;cd 1000
+: 1643559579:0;g++ main.c 
+: 1643559601:0;cd ../1001
+: 1643560287:0;cd ../1002
+: 1643560522:0;vi main.c
+: 1643560709:0;cd ../1003
+: 1643560824:0;gcc main.c -o main
+: 1643560835:0;cd 1004
+: 1643561026:0;cd 1005
+: 1643572891:0;pip3
+: 1643572939:0;kill 1420 3440
+: 1643627082:50;yay -S --noconfirm zsh-theme-powerlevel10k-git\
+echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+: 1643627143:3;sudo pacman -S lsd
+: 1643627155:5;sudo pacman -S bat ripgrep
+: 1643627169:0;rg
+: 1643627236:0;.emacs.d
+: 1643627242:0;bin/doom
+: 1643627245:0;bin/doom sync
+: 1643627519:0;yay -S nerd-fonts-complete
+: 1643627551:0;sudo pacman -S xdotool
+: 1643627598:0;cd i3
+: 1643627605:0;vim config
+: 1643627610:0;sudo pacman -S vim
+: 1643627675:0;vim init.el
+: 1643627689:0;vim config.el
+: 1643627754:0;source .local/share/fonts
+: 1643627780:0;sudo pacman -R emacs
+: 1643627789:0;yay -S emacs
+: 1643627802:0;yay -S emacs28-git
+: 1643628409:0;sudo pacman -S emacs
+: 1643629230:0;sudo pacman -S flameshot
+: 1643629453:0;flameshot gui
+: 1643629714:0;cdev
+: 1643631876:0;ls -ump
+: 1643631886:0;bash ls -ump
+: 1643632253:0;sudo pacman -S zoom
+: 1643632402:0;yay -S zoom
+: 1643632596:0;yay -S droidcam-dkms-git
+: 1643632614:0;yay -S droidcam
+: 1643632692:0;sudo pacman -S android-tools
+: 1643635361:0;ls kitty-themes
+: 1643635391:0;ln -sf theme.conf kitty-themes/DoomOne.conf
+: 1643635421:0;ln -sf theme.conf kitty-themes/MonokaiPro.conf
+: 1643635427:0;cd kitty-themes
+: 1643635438:0;rm DoomOne.conf MonokaiPro.conf 
+: 1643635654:0;vim Dev/C/bshk/main.c
+: 1643635678:0;ln -sf kitty-themes/MonokaiPro_Octagon.conf theme.conf
+: 1643642602:0;man ls
+: 1643642605:0;man lsd
+: 1643642612:0;man cd
+: 1643642625:0;man grep
+: 1643642748:0;mv generate.vim ~/.vimrc
+: 1643647300:0;man git log 
+: 1643647305:0;sudo pacman -S nvim
+: 1643647316:0;sudo pacman -S neovim
+: 1643647384:0;git long -n 2 
+: 1643647388:0;git log -n 2 
+: 1643647449:0;git log -p
+: 1643647481:0;ls -n 5
+: 1643647485:0;git -n
+: 1643647491:0;help git log
+: 1643647531:0;./git_commit.sh
+: 1643647593:0;man git log -n
+: 1643647920:0;dc ecole42_rio
+: 1643647927:0;c Shell/shell_00
+: 1643647934:0;cd Shell/shell_00/ex04
+: 1643648020:0;git log --pretty="format:%H"
+: 1643648026:0;git log --pretty="format:%H" -n 2
+: 1643648527:0;tar -cf testShell00.tar testShell00
+: 1643648534:0;rm testShell00
+: 1643648559:0;mkdir test0 test2
+: 1643648579:0;touch test1 test{3..6}
+: 1643648619:0;ln -s test6 test0
+: 1643648637:0;ln -sf test6 test0
+: 1643648818:0;truncate -s 4 test1
+: 1643648859:0;truncate -s 1 test3
+: 1643648870:0;truncate -s 2 test4
+: 1643648874:0;truncate -s 1 test5
+: 1643648882:0;truncate -s 5 test6
+: 1643649009:0;touch -t 2206012146 test1
+: 1643649021:0;touch -t 2206012047 test0
+: 1643649031:0;touch -t 2106012146 test1
+: 1643649036:0;touch -t 2106012245 test0
+: 1643649044:0;touch -t 2106012245 test2
+: 1643649055:0;touch -t 2106012344 test3
+: 1643649070:0;touch -t 2106012343 test4
+: 1643649076:0;touch -t 2106012344 test5
+: 1643649131:0;chmod -rwx *
+: 1643649162:0;chmod u-rwx test0 
+: 1643649171:0;chmod g+x test0 
+: 1643649175:0;chmod u+rwx test0 
+: 1643649186:0;chmod o+rx test0 
+: 1643649200:0;chmod u+rwx test1 
+: 1643649217:0;chmod g+x test1
+: 1643649226:0;chmod o+r test1
+: 1643649253:0;chmod u+rx test2
+: 1643649259:0;chmod o+x test2
+: 1643649267:0;chmod o-x test2
+: 1643649273:0;chmod o+r test2
+: 1643649299:0;chmod uo+r test3
+: 1643649327:0;chmod ug+r test4
+: 1643649343:0;chmod u+w test4
+: 1643649352:0;chmod o+x test4
+: 1643649365:0;chmod uo+r test4
+: 1643649382:0;chmod o-r test4
+: 1643649385:0;chmod uo+r test5
+: 1643649572:0;zip exo2.tar
+: 1643649574:0;unzip exo2.tar
+: 1643649581:0;extract exo2.tar
+: 1643649668:0;tar x exo2.tar
+: 1643649677:0;tar x exo2.tar 
+: 1643649707:0;touch -t 2106012047 test0
+: 1643649730:0;touch -h -t 2106012047 test0
+: 1643649758:0;man ln
+: 1643649831:0;touch -t 2106012220 test6
+: 1643649859:0;touch -t -f 2106012220 test6
+: 1643649987:0;touch -t --no-difference 2106012220 test6
+: 1643650024:0;touch --no-dereference -t 2106012220 test6
+: 1643650049:0;rm -r exo2.tar
+: 1643650053:0;tar -cf exo2.tar *
+: 1643650068:0;tar x f exo2.tar
+: 1643650074:0;tar x -ff exo2.tar
+: 1643650076:0;tar x -f exo2.tar
+: 1643650082:0;rm -rf test*
+: 1643650156:0;bat git_ignore.sh
+: 1643650177:0;man git
+: 1643650312:0;kill 1391
+: 1643650753:0;wget https://projects.intra.42.fr/uploads/document/document/5171/resources.tar.gz
+: 1643650774:0;vi a
+: 1643650851:0;diff a b
+: 1643651340:0;patch a sw.diff b
+: 1643651343:0;patch a sw.diff > b
+: 1643651380:0;rm -r a sw.diff
+: 1643651390:0;patch
+: 1643651419:0;patch a sw.diff -b 
+: 1643651441:0;diff a sw.diff
+: 1643651461:0;diff a sw.diff > nvim
+: 1643651466:0;rm nvim
+: 1643651468:0;rm a.orig
+: 1643651707:0;man patch
+: 1643651753:0;patch a sw.diff -o b
+: 1643651830:0;vi b
+: 1643651897:0;rm -rf b a sw.diff 
+: 1643651916:0;patch sw.diff a -o b
+: 1643651929:0;rm a b sw.diff
+: 1643651940:0;extract resources.tar.gz 
+: 1643651946:0;mv resources.tar.gz ..
+: 1643652205:0;diff a b > sw.diff
+: 1643652208:0;vi sw.diff
+: 1643652243:0;extract resources.tar.gz ex06
+: 1643652271:0;diff ._a ._sw.diff
+: 1643652287:0;rm -rf 
+: 1643652308:0;diff a sw.diff 
+: 1643652416:0;patch < a sw.diff -o b
+: 1643652423:0;rm -r b
+: 1643652481:0;patch < sw.diff -o b
+: 1643652487:0;patch b < sw.diff 
+: 1643652509:0;rm b.orig b.rej
+: 1643652599:0;extract ../resources.tar.gz
+: 1643652605:0;mv a sw.diff ex06
+: 1643652644:0;touch a 
+: 1643652646:0;touch b
+: 1643652648:0;vim a
+: 1643652665:0;cat a > b
+: 1643652668:0;vim b
+: 1643652702:0;vim sw.diff
+: 1643652767:0;patch a < sw.diff
+: 1643652789:0;echo a > a
+: 1643652798:0;echo b > abc
+: 1643652804:0;rm -r abc
+: 1643652810:0;echo abc > b
+: 1643652826:0;diff a b -u sw.diff
+: 1643652839:0;diff -u a b > sw.diff
+: 1643652875:0;rm b
+: 1643652879:0;cat a
+: 1643652883:0;cat sw.diff
+: 1643652897:0;patch a < sw.diff -o b
+: 1643652900:0;cat b
+: 1643652972:0;rm -r sw.diff a .*
+: 1643655437:0;man type
+: 1643655511:0;find . -type
+: 1643655515:0;find . -type f
+: 1643655577:0;find . -type f -name "*~" -o
+: 1643655580:0;find . -type f -name "*~"
+: 1643655587:0;find . -type f -name "#*#"
+: 1643656684:0;find
+: 1643656798:0;find . -type f -name "clean*" -or -name "*~" -print -delete
+: 1643656851:0;mkdir test3/test4
+: 1643656855:0;touch test1/kasdjfas\~
+: 1643656905:0;man find 
+: 1643657019:0;find . -type f -name "clean" -or -name "*~" -print -delete
+: 1643657197:0;find . -type f -print -delete -name "*~"
+: 1643657245:0;find . -type f -name "cl*an" -or -name "*~" -print -delete
+: 1643657258:0;ls test
+: 1643657260:0;ls test1
+: 1643657278:0;cd test1
+: 1643657310:0;touch test1/delete-me\~
+: 1643657338:0;touch normal
+: 1643657351:0;rm lean
+: 1643657378:0;find . -type f -name "#*#" -or -name "*~" -print -delete
+: 1643657386:0;cd test3/test4
+: 1643657446:0;find . -type f -name "*\~" -or "\#*\#" -print -delete
+: 1643657454:0;find . -type f -name "*~" -or "\#*\#" -print -delete
+: 1643657471:0;find . -type f \(-name "*~" -or "#*#"\) -print -delete
+: 1643657481:0;find . -type f \( -name "*~" -or "#*#" \) -print -delete
+: 1643657493:0;ls test3/test4/
+: 1643657498:0;find . -type f \( -name "*~" -o"#*#" \) -print -delete
+: 1643657541:0;find . -type f  -name "*~" -or -name "#*#" -print -delete
+: 1643657550:0;ls test3/
+: 1643657578:0;touch test3/seila\~
+: 1643657590:0;touch test3/test4/\#delete-me\#
+: 1643657618:0;find . -type f  ( -name "*~" -or -name "#*#" ) -print -delete
+: 1643657627:0;find . -type f  \( -name "*~" -or -name "#*#" \) -print -delete
+: 1643657674:0;find . -type f  \( -name "*lean" -or -name "#*#" \) -print -delete
+: 1643657680:0;rm normal
+: 1643657688:0;touch clean
+: 1643657690:0;touch lean
+: 1643657697:0;find . -type f  \( -name "lean" -or -name "#*#" \) -print -delete
+: 1643657733:0;echo "find . -type f  \( -name "lean" -or -name "#*#" \) -print -delete" > clean
+: 1643657744:0;echo "find . -type f  \( -name "lean" -or -name "#*#" \) -print -delete" >> clean
+: 1643657755:0;echo " find . -type f  \( -name "lean" -or -name "#*#" \) -print -delete " >> clean
+: 1643657798:0;echo 'find . -type f \( -name "#*#" -or -name "*~" \) -print -delete
+: 1643657804:0;echo 'find . -type f \( -name "#*#" -or -name "*~" \) -print -delete' >> clean
+: 1643657886:0;touch ft_magic
+: 1643657912:0;kill 338524 339001
+: 1643658075:0;chmod +x clean 
+: 1643658117:0;touch 
+: 1643658122:0;touch \#aa\#
+: 1643658128:0;touch sdfas\~
+: 1643658295:0;cat git_commit.sh git_commit.sh
+: 1643658818:0;wget https://cdn.intra.42.fr/pdf/pdf/33396/pt_br.subject.pdf
+: 1643660434:0;file -m
+: 1643660441:0;file -C
+: 1643660462:0;cat ft_magic 
+: 1643660469:0;file -C ft_magic
+: 1643661366:0;find ft_magic
+: 1643661390:0;touch teste.42file
+: 1643661408:0;truncate -size=40 teste.42file
+: 1643661414:0;truncate -s 40 teste.42file
+: 1643661459:0;cd Shell/shell_0
+: 1643661473:0;echo '42' > teste.42file
+: 1643661477:0;cat teste.42file
+: 1643661487:0;cat -ATE teste.42file
+: 1643661527:0;file -m ft_magic *
+: 1643661570:0;file -m ft_magic teste.42file
+: 1643661573:0;vim teste.42file
+: 1643661601:0;fallocate -s 40 teste.42file
+: 1643661607:0;man fallocate
+: 1643661619:0;rm -r teste.42file
+: 1643662874:0;touch teste.txt
+: 1643662885:0;truncate -s 41
+: 1643662896:0;truncate -s 41 teste.txt
+: 1643662905:0;vim teste.txt
+: 1643662927:0;file -m ft_magic teste.txt
+: 1643662969:0;file -m ft_magic.mgc teste.txt
+: 1643663113:0;rm -r teste.txt
+: 1643663164:0;find -m ft_magic
+: 1643663171:0;file ft_magic test.txt
+: 1643663207:0;cat -T ft_magic
+: 1643663221:0;rm -r ft_magic
+: 1643663254:0;echo '42 string 42 42 file' > ft_magic
+: 1643663335:0;cat ft_magic \\
+
+: 1643663455:0;ls */*/*
+: 1643663471:0;rm \#aa\#
+: 1643663515:0;cd shell_00
+: 1643663655:0;cd //
+: 1643663740:0;git config --global user.name "lguedes@student.42.fr"
+: 1643663754:0;git config --global user.email "lguedes@student.42.fr"
+: 1643663758:0;git commit -m 'Finished shell00 waiting for evaluation'
+: 1643663847:0;ssh-keygen -t ed25519 -C "lguedes@student.42.fr"
+: 1643663916:0;rm -r .*
+: 1643664010:0;kill 493064 493582
+: 1643665079:0;kill 3222
+: 1643665099:0;cat ex06/b 
+: 1643666276:0;man write(5)
+: 1643666344:0;man write(2)
+: 1643666346:0;man write 2
+: 1643667446:0;gcc test.c -o test
+: 1643667461:0;cat test.c
+: 1643667476:0;bat test.c
+: 1643670236:0;git log
+: 1643670252:0;git log -3
+: 1643670273:0;git log -n 3 
+: 1643670294:0;git log -3 --pretty="format:%H"
+: 1643670307:0;git log -3 --format:%H
+: 1643670313:0;git log -3 --format="%H"
+: 1643670327:0;man 
+: 1643670331:0;man git log
+: 1643670352:0;git log --oneline
+: 1643670366:0;git log pretty="oneline"
+: 1643670369:0;git log pretty="--oneline"
+: 1643670374:0;git log --pretty="oneline"
+: 1643670416:0;cat git_commit.sh
+: 1643670439:0;env 
+: 1643670457:0;./git_ignore.sh
+: 1643670490:0;touch .gitignore
+: 1643670497:0;vim .gitignore
+: 1643670562:0;cd .git
+: 1643670693:0;touch test.vim
+: 1643670695:0;vim test.vim
+: 1643670714:0;man vim
+: 1643670735:0;vim -C test.vim
+: 1643670742:0;rm -r test.vim
+: 1643670940:0;ls ~
+: 1643670990:0;vi
+: 1643671222:0;python3 -c 'print('a'*41 + '42')' > test.txt
+: 1643671258:0;file -m test.txt
+: 1643671264:0;file -m ft_magic
+: 1643671329:0;file test.txt
+: 1643671403:0;file 
+: 1643671441:0;fallocate -l 41
+: 1643671512:0;file -C ft_magic 
+: 1643671540:0;echo '42' > test.txt
+: 1643671543:0;vi test.txt
+: 1643671549:0;fallocate -l 41 test.txt
+: 1643671587:0;rm -r ft_magic.mgc test.txt
+: 1643671589:0;exirt
+: 1643671644:0;rm -r test test.c
+: 1643671657:0;kill 610086 610562
+: 1643671857:0;python3
+: 1643671985:0;exitit
+: 1643672074:0;echo 'Z'
+: 1643672078:0;echo 'Z' > test
+: 1643672109:0;echo 'Z\n' > test
+: 1643672112:0;bat test
+: 1643672122:0;cat -e test
+: 1643672276:0;ex00/z
+: 1643672286:0;vim z 
+: 1643672293:0;cat z
+: 1643672313:0;vim z
+: 1643673929:0;git cd
+: 1643674102:0;cat .ssh
+: 1643674107:0;cd .ssh
+: 1643674179:0;ssh-keygen -t ecdsa
+: 1643674201:0;cat id_ecdsa.pub
+: 1643674225:0;git clone git@vogsphere.42.rio:vogsphere/intra-uuid-47e801d8-7fc5-4096-93a2-87019e08516c-3972005-lguedes
+: 1643674765:0;ssh-keygen 
+: 1643675592:0;touch test.md
+: 1643675772:0;vim bshk/main.c
+: 1643675916:0;rm -r test.md
+: 1643676147:0;man touch
+: 1643681241:0;bash git_commit.sh | cat -e
+: 1643681254:0;bash git_commit.sh | cat -els
+: 1643682516:0;vi clean 
+: 1643682843:0;cd Dev/ecole42_rio/Semana_1/Shell/shell_00/ex05
+: 1643682846:0;vim git_ignore.sh
+: 1643682969:0;cd Dev/ecole42_rio/Semana_1/Shell/shell_00/ex02
+: 1643682978:0;tar -xf exo2.tar 
+: 1643683370:0;bash 
+: 1643683572:0;cd Dev/ecole42_rio/Semana_1/Shell/shell_00/ex04
+: 1643687498:0;kill 1115718 1115720 934741
+: 1643715108:0;cd Dev/ecole42_rio/Semana_1/Shell/shell_00/
+: 1643717294:0;vim clean 
+: 1643717344:0;vim clean c
+: 1643717358:0;mkdir test1
+: 1643717362:0;mkdir test1/test2
+: 1643717365:0;mkdir test3
+: 1643717380:0;touch test1/test2/\#something\#
+: 1643717390:0;touch test3/jsdfjkaf\~
+: 1643717694:0;touch thesis
+: 1643717706:0;touch thesis.new
+: 1643717713:0;vim thesis
+: 1643717731:0;cat thesis > thesis.new
+: 1643717741:0;vim thesis.new
+: 1643717775:0;diff thesis thesis.new
+: 1643717799:0;diff thesis thesis.new > thesis.diff
+: 1643717803:0;cat thesis.diff
+: 1643717859:0;cp thesis test2
+: 1643717863:0;cat test2/thesis t
+: 1643717888:0;patch < thesis thesis.diff
+: 1643717891:0;ls -0a
+: 1643717899:0;patch thesis thesis.diff
+: 1643717909:0;ls -as -a
+: 1643717959:0;cat thesis.new
+: 1643717980:0;mv thesis.diff test2
+: 1643717987:0;rm thesis.new
+: 1643718008:0;cat thesis
+: 1643718081:0;patch < thesis thesis.diff -o theses.new
+: 1643718099:0;cat theses.new
+: 1643718131:0;man patch 
+: 1643718189:0;cat thesis > theses.new
+: 1643718191:0;vim theses.new
+: 1643718226:0;diff thesis theses.new 
+: 1643718243:0;diff thesis theses.new > thsesis.diff
+: 1643718246:0;cat thsesis.diff
+: 1643718260:0;rm -r theses.new
+: 1643718270:0;patch thesis thesis.diff -o theses.new
+: 1643718280:0;patch thesis thsesis.diff -o theses.new
+: 1643718335:0;cd Dev/\\
+
+: 1643718344:0;cd Shell/shell_00
+: 1643718355:0;mv resources.tar.gz test
+: 1643718362:0;tar -xf resources.tar.gz
+: 1643718386:0;cat ._a
+: 1643718416:0;man tar
+: 1643719557:0;vim clean
+: 1643719591:0;man find
+: 1643719680:0;touch \#someting\#
+: 1643719739:0;cat clean > cleanwrong
+: 1643719755:0;cat clean 
+: 1643719758:0;cat cleanwrong
+: 1643719871:0;vim cleanwrong
+: 1643720027:0;touch \#aslkdfjasf\#~
+: 1643720031:0;touch sdlkfjaskf~
+: 1643720042:0;touch dlfkjasdkfj dsklfjasd
+: 1643720217:0;./clean
+: 1643720242:0;rm cleanwrong dlfkjasdkfj dsklfjasd espacos esta esta\ pasta\ tem\ espacos esta\ pasta\ tem\ espacos\ 2  pasta test3 tem test1
+: 1643720246:0;rm -r cleanwrong dlfkjasdkfj dsklfjasd espacos esta esta\ pasta\ tem\ espacos esta\ pasta\ tem\ espacos\ 2  pasta test3 tem test1
+: 1643720256:0;cat clean
+: 1643722023:0;cd Dev/ecole42_rio/Semana_1/Shell/shell_00
+: 1643722619:0;python3 -c 'print("a"*41 + "42")' > test.html
+: 1643722625:0;cat test.html
+: 1643722634:0;man file
+: 1643722743:0;file -m ft_magic test.html
+: 1643722803:0;vim test.html
+: 1643722822:0;time file -m ft_magic test.html
+: 1643722845:0;time file -m ft_magic.mgc test.html
+: 1643723127:0;cp test.html test{0.10000}.html
+: 1643723139:0;rm test\{0.10000\}.html
+: 1643723149:0;cp test.html test{0..10000}.html
+: 1643723170:0;touch test{0..10000}.html
+: 1643723188:0;cat test.html > test{0..10000}.html
+: 1643723193:0;cat test.html > test{0..1000}.html
+: 1643723211:0;file -m ft_magic test*.html
+: 1643723216:0;time file -m ft_magic test*.html
+: 1643723232:0;time file -m ft_magic.mgc test*.html
+: 1643723259:0;time file -m ft_magic.mgc test*
+: 1643723273:0;rm -r *html
+: 1643723277:0;rm html.txt
+: 1643723282:0;rm ft_magic.mgc
+: 1643723665:0;touch html.txt
+: 1643723668:0;vim html.txt
+: 1643723683:0;file html.txt
+: 1643723703:0;man file 
+: 1643723795:0;rm -r  html.txt
+: 1643723824:0;touch test.txt
+: 1643723968:0;echo 'a'*3
+: 1643724012:0;cat > test.txt 
+: 1643724071:0;python3 -c 'print("a"*41 + "42")'
+: 1643724088:0;python3 -c 'print("a"*41 + "42")' > test.txt
+: 1643724090:0;cat test.txt
+: 1643724114:0;vim ft_magic
+: 1643724119:0;file -m ft_magic test.txt
+: 1643724140:0;file -C -m ft_magic
+: 1643724144:0;vim ft_magic.mgc
+: 1643724155:0;ls ft_magic.mgc
+: 1643724159:0;rm -r ft_magic.mgc
+: 1643724164:0;rm  test.txt
+: 1643724176:0;vim ft_magic 
+: 1643724257:0;cat ft_magic
+: 1643724315:0;kill 1640449 1640325
+: 1643724478:0;c Semana_1/Shell/shell_00
+: 1643736465:0;cd Dev/ecole42_rio
+: 1643736481:0;git log -n 5 --pretty:"%H"
+: 1643736484:0;git log -n 5 --pretty="%H"
+: 1643736494:0;git log -n 5 --format:"%H"
+: 1643736497:0;git log -n 5 --format="%H"
+: 1643736504:0;cd Semana_1/Shell/shell_00
+: 1643736753:0;vim git_commit.sh
+: 1643736777:0;vim git_commit.sh 
+: 1643739191:0;cat test
+: 1643746977:0;kill 1809393 1809495 
+: 1643751785:0;sudo pacman -S github-cli
+: 1643752067:0;man gh 
+: 1643752084:0;gh auth 
+: 1643752127:0;gh auth login
+: 1643752341:0;gh auth login 
+: 1643752347:0;gh
+: 1643764807:0;kill 2178594 2178531 
+: 1643764815:0;kill 2178531
+: 1643830276:0;kill dorid
+: 1643830280:0;kill droid
+: 1643830283:0;kill 2333279
+: 1643830288:0;rm test
+: 1643836538:0;kill 3817676
+: 1643838966:0;rm -r ex00
+: 1643842647:0;kill 3823519
+: 1643849759:0;kill 3941623
+: 1643850247:0;echo 42 > "\\\?\$\*\â€ƒ¹MaRViN\â€ƒ¹\*\$\?\\\"\
+
+: 1643850252:0;echo 42 > \"\\\?\$\*\â€ƒ¹MaRViN\â€ƒ¹\*\$\?\\\"\
+
+: 1643850327:0;rm -r \"\\\?\$\*â€ƒ¹MaRViNâ€ƒ¹\*\$\?\\\"
+: 1643850375:0;https://raw.githubusercontent.com/LauraSteinert/basecamp-42/main/final-shell01/ex05/%22%5C%3F%24*'MaRViN'*%24%3F%5C%22
+: 1643850441:0;wget https://raw.githubusercontent.com/LauraSteinert/basecamp-42/main/final-shell01/ex05/%22%5C%3F%24*'MaRViN'*%24%3F%5C%22
+: 1643850463:0;wget https://github.com/LauraSteinert/basecamp-42/tree/main/final-shell01/ex05
+: 1643851127:0;rm -r *
+: 1643851203:0;touch "\\\?\$\*\'MaRViN\'\*\$\?\\\"\
+
+: 1643851209:0;touch \"\\\?\$\*\'MaRViN\'\*\$\?\\\"\
+
+: 1643851285:0;touch print_groups.sh
+: 1643851291:0;chmod +x print_groups.sh
+: 1643851576:0;chmod +x *
+: 1643851583:0;./.
+: 1643851589:0;./ ./find_sh.sh
+: 1643851678:0;exitls
+: 1643852452:0;kill 2485306 2485210
+: 1643852567:0;ls | cat -e
+: 1643852579:0;./find_sh.sh | cat -e
+: 1643852879:0;echo '42' > \"\\\?\$\*\'MaRViN\'\*\$\?\\\"
+: 1643852910:0;ls -lRa *MaRV* | cat -e
+: 1643852931:0;cat -e \"\\\?\$\*\'MaRViN\'\*\$\?\\\"
+: 1643852941:0;echo \b > \"\\\?\$\*\'MaRViN\'\*\$\?\\\"
+: 1643852946:0;vim \"\\\?\$\*\'MaRViN\'\*\$\?\\\"
+: 1643852963:0;cat \"\\\?\$\*\'MaRViN\'\*\$\?\\\" 
+: 1643852966:0;rm -r \"\\\?\$\*\'MaRViN\'\*\$\?\\\"
+: 1643852976:0;cat  > \"\\\?\$\*\'MaRViN\'\*\$\?\\\"
+: 1643853643:0;touch count_files.sh
+: 1643853694:0;man wc
+: 1643853742:0;find . -type f -name "*" | wc -l
+: 1643853797:0;find . -type fd -name "*" | wc -l
+: 1643853801:0;find . -type f,d -name "*" | wc -l
+: 1643853858:0;find . -type f,d -name "*" 
+: 1643853965:0;chmod +x count_files.sh
+: 1643853974:0;./count_files.sh | cat -e
+: 1643854069:0;sudo pacman -S net-tools
+: 1643854215:0;vim MAC.sh
+: 1643854252:0;ifconfig adress
+: 1643854254:0;ifconfig address
+: 1643854257:0;man if
+: 1643854302:0;ifconfig -s
+: 1643854364:0;ifconfig | grep ether
+: 1643854386:0;ifconfig | grep ether | cut -d ' ' f -10
+: 1643854394:0;ifconfig | grep ether | cut -d ' ' -f -10
+: 1643854411:0;ifconfig | grep ether | cut -d ' ' -f -10 | rev 
+: 1643854421:0;ifconfig | grep ether | cut -d ' ' -f -10 | rev | cat -e
+: 1643854451:0;ifconfig | grep ether | cut -d ' ' -f -10 | rev | cut -c10- | cat -e
+: 1643854458:0;ifconfig | grep ether | cut -d ' ' -f -10 | cut -c10- | cat -e
+: 1643854467:0;ifconfig | grep ether | cut -d ' ' -f -10 | cut -c14- | cat -e
+: 1643854471:0;ifconfig | grep ether | cut -d ' ' -f -10 | cut -c15- | cat -e
+: 1643854610:0;ifconfig | grep ether | cut -d ' ' -f 10 
+: 1643854615:0;ifconfig | grep ether | cut -d ' ' 
+: 1643854620:0;ifconfig | grep ether | 
+: 1643854641:0;man cut 
+: 1643854648:0;man cut -d
+: 1643854676:0;ifconfig | grep ether | cut -d ' ' -f 10
+: 1643854852:0;man cut
+: 1643855030:0;ifconfig | grep ether | cut -d ' ' -f 1
+: 1643855034:0;ifconfig | grep ether | cut -d ' ' -f 60
+: 1643855036:0;ifconfig | grep ether | cut -d ' ' -f 33
+: 1643855038:0;ifconfig | grep ether | cut -d ' ' -f 15
+: 1643855040:0;ifconfig | grep ether | cut -d ' ' -f 2
+: 1643855042:0;ifconfig | grep ether | cut -d ' ' -f 19
+: 1643855050:0;ifconfig | grep ether |
+: 1643855051:0;ifconfig | grep ether 
+: 1643855072:0;ifconfig | grep ether > test.txt
+: 1643855141:0;lv
+: 1643855170:0;ifconfig | grep ether |cut -c15-
+: 1643855173:0;ifconfig | grep ether | cut -c15-
+: 1643855201:0;ifconfig | grep ether | cut -c 15-31
+: 1643855216:0;./MAC.sh
+: 1643855363:0;ls -l | \n
+: 1643855429:0;mkdir test{1..10}
+: 1643855438:0;rm test10
+: 1643855442:0;rmdir test10
+: 1643855505:0;ls -l | tr \n
+: 1643855510:0;ls -l | tr '\n'
+: 1643855565:0;ls -l | sed '\n'
+: 1643855703:0;ls -l | sed 'p;\n'
+: 1643855724:0;ls -l | sed 'p;d'
+: 1643855730:0;ls -l | sed 'D'
+: 1643855733:0;ls -l | sed 'p;D'
+: 1643855738:0;ls -l | sed 'p;N'
+: 1643855967:0;ls -l | sed -n 
+: 1643856033:0;ls -l 
+: 1643856045:0;ls -l | sed 'p'
+: 1643856050:0;ls -l | sed -n 'p'
+: 1643856168:0;ls -l | sed -n 'P'
+: 1643856172:0;ls -l | sed -n 'P;n'
+: 1643856177:0;ls -l | sed -n 'n'
+: 1643856183:0;ls -l | sed -n 'p;n;n'
+: 1643856206:0;ls -l > test
+: 1643856263:0;ls -l | sed -n 'p;p;n'
+: 1643856300:0;ls -l | sed 'p;n;n'
+: 1643856305:0;ls -l | sed -n ]'p;n'
+: 1643856361:0;rm -r test*
+: 1643856371:0;./skip.sh ..
+: 1643856375:0;./skip.sh 
+: 1643857026:0;cat /etc/passwd | sed -f 1
+: 1643857089:0;cat /etc/passwd | cut -d  -f 1
+: 1643857095:0;cat /etc/passwd | cut  -f 1
+: 1643857103:0;cat /etc/passwd | cut -d ' ' -f 1
+: 1643857113:0;cat /etc/passwd | cut -d ':' -f 1
+: 1643857142:0;cat /etc/passwd | cut -d ':' -f 1 | tr '\n' ' ,'
+: 1643857149:0;cat /etc/passwd | cut -d ':' -f 1 | tr '\n' ','
+: 1643857176:0;cat /etc/passwd | cut -d ':' -f 1 | tr '\n' ', ' | echo \n
+: 1643857180:0;cat /etc/passwd | cut -d ':' -f 1 | tr '\n' ', ' | echo 
+: 1643857204:0;kill 4129534 4129643
+: 1643857322:0;cat /etc/passwd | cut -d ':' -f 1 | tr '\n' ', '
+: 1643857330:0;cat /etc/passwd | cut -d ':' -f 1 | tr '\n' ', ' 
+: 1643857331:0;man tr
+: 1643857350:0;cat .
+: 1643857353:0;cat \.
+: 1643857356:0;cat "."
+: 1643857484:0;cat /etc/passwd | cut -d ':' -f 1 | sed -n 'p;n' 
+: 1643857494:0;cat /etc/passwd | cut -d ':' -f 1 | sed -n 'n'p 
+: 1643857498:0;cat /etc/passwd | cut -d ':' -f 1 | sed -n 'n;p '
+: 1643857503:0;cat /etc/passwd | cut -d ':' -f 1 | sed -n 'n;p'
+: 1643857546:0;cat /etc/passwd | cut -d ':' -f 1 | sed -n 'n;p' | rev | sort -r 
+: 1643857558:0;cat /etc/passwd | cut -d ':' -f 1 | sed -n 'n;p' | rev | sort 
+: 1643857560:0;cat /etc/passwd | cut -d ':' -f 1 | sed -n 'n;p' | rev | sort -r
+: 1643857649:0;cat $FT_LINE1 -e 
+: 1643857672:0;env | grep '$FT_LINE1'
+: 1643857676:0;env | grep $FT_LINE1
+: 1643857680:0;env | grep \$FT_LINE1
+: 1643857757:0;$FT_LINE1
+: 1643857761:0;cat $FT_LINE1
+: 1643857767:0;grep $FT_LINE1
+: 1643857849:0;cat /etc/passwd | cut -d ':' -f 1 | sed -n 'n;p' | rev | sort -r | sed -n '$FT_LINE1,FT_LINE2;p'
+: 1643857862:0;cat /etc/passwd | cut -d ':' -f 1 | sed -n 'n;p' | rev | sort -r | sed -n '$FT_LINE1;FT_LINE2 p'
+: 1643857874:0;cat /etc/passwd | cut -d ':' -f 1 | sed -n 'n;p' | rev | sort -r | sed -n '$FT_LINE1,FT_LINE2 p'
+: 1643857883:0;cat /etc/passwd | cut -d ':' -f 1 | sed -n 'n;p' | rev | sort -r | sed -n '$FT_LINE1,$FT_LINE2 p'
+: 1643857893:0;cat /etc/passwd | cut -d ':' -f 1 | sed -n 'n;p' | rev | sort -r | sed -n "$FT_LINE1,$FT_LINE2 p"
+: 1643857915:0;cat /etc/passwd | cut -d ":" -f 1 | sed -n 'n;p' | rev | sort -r | sed -n "$FT_LINE1,$FT_LINE2 p" | sed ':a;N;$!ba;s/\n/, /g' | tr '\n' '.'
+: 1643857971:0;echo cat /etc/passwd | cut -d ":" -f 1 | sed -n 'n;p' | rev | sort -r | sed -n "$FT_LINE1,$FT_LINE2 p" | sed ':a;N;$!ba;s/\n/, /g' | tr '\n' '.' > r_dwssap.sh
+: 1643857988:0;echo "cat /etc/passwd | cut -d ":" -f 1 | sed -n 'n;p' | rev | sort -r | sed -n "$FT_LINE1,$FT_LINE2 p" | sed ':a;N;$!ba;s/\n/, /g' | tr '\n' '.'" > r_dwssap.sh
+: 1643859073:0;kill 5248
+: 1643859227:0;sudo adb devices
+: 1643859393:0;mkdir c00
+: 1643859433:0;wget https://cdn.intra.42.fr/pdf/pdf/35894/pt_br.subject.pdf
+: 1643859489:0;touch ft_putchar
+: 1643859524:0;cd Dev/ecole42_rio/Semana_1/C/c00/ex0
+: 1643859527:0;cd Dev/ecole42_rio/Semana_1/C/c00/ex00
+: 1643859545:0;mv ft_putchar ft_putchar.c
+: 1643859679:0;cd Semana_1/C
+: 1643859682:0;cd c00/ex00
+: 1643859703:0;gcc ft_putchar.c -o main
+: 1643860961:0;gcc * -o main
+: 1643860966:0;ls -als
+: 1643861094:0;gcc ft_print_alphabet.c -o main
+: 1643861185:0;touch ft_print_alphabet.c
+: 1643861197:0;mv ft_print_alphabet.c ft_print_reverse_alphabet.c
+: 1643861473:0;sudo pacman -S python-pip
+: 1643861624:0;gcc ft_print_reverse_alphabet.c -o main
+: 1643861971:0;touch ft_print_numbers.c
+: 1643862259:0;gcc ft_print_numbers.c -o  main
+: 1643862361:0;lshw 
+: 1643862363:0;ls hw
+: 1643862365:0;ls -hw
+: 1643862368:0;hwinfo
+: 1643862381:0;hwinfo | grep mother
+: 1643862385:0;hwinfo | grep mobo
+: 1643862387:0;hwinfo | grep MOBO
+: 1643862409:0;touch ft_is_negative.c
+: 1643863531:0;gcc ft_is_negative.c -o main
+: 1643863688:0;touch ft_print_comb.c
+: 1643863725:0;git commit -m 'starting ex05 C00'
+: 1643867922:0;kill 4509 4563 4612
+: 1643886318:0;kill 180488 180925 180973
+: 1643887241:0;env | grep  norminette
+: 1643887245:0;man norminette
+: 1643887251:0;norminette -help
+: 1643887293:0;man write
+: 1643887300:0;man write()
+: 1643887476:0;cd Dev/ecole42_rio/Semana_1
+: 1643887483:0;cd c00/ex01
+: 1643887561:0;cat ex00/ft_putchar.c
+: 1643887566:0;bat ex00/ft_putchar.c
+: 1643887669:0;gcc ft_print_comb.c -o main
+: 1643888646:0;cd Dev/ecole42_rio/Semana_1/C/c00/ex05
+: 1643888687:0;git commit -m 
+: 1643888689:0;git commit -m ""
+: 1643888708:0;git commit -m "Finished ex05, ft_print_comb"
+: 1643888996:0;norminettte
+: 1643889005:0;cd Semana_1/C/c00/ex05
+: 1643889140:0;cd ecole42_rio/Semana_1
+: 1643889157:0;touch ft_print_comb2.c
+: 1643889877:0;cat ex05/ft_print_comb.c
+: 1643890333:0;./ex0
+: 1643890339:0;/.main
+: 1643892246:0;cd ex0..
+: 1643892278:0;mkdir mario_less mario_more
+: 1643892335:0;wget https://cdn.cs50.net/2021/fall/psets/1/mario-less.zip
+: 1643892342:0;extract mario-less.zip
+: 1643892349:0;rm -r mario-less.zip
+: 1643892350:0;cd mario-less
+: 1643892440:0;vim pseudocode.txt
+: 1643892548:0;sudo pacman -S screenkey
+: 1643892580:0;vi mario.c
+: 1643893013:0;vim mario.c
+: 1643893189:0;gcc mario.c
+: 1643893220:0;nvim mario.c
+: 1643893257:0;kill 526018 526114
+: 1643893445:0;cd mario_less
+: 1643893540:0;chmod +x main.c
+: 1643893542:0;./main.c
+: 1643893600:0;cat 
+: 1643893642:0;gcc mario.c 
+: 1643893660:0;vim mario-less
+: 1643893857:0;cd bshk
+: 1643893913:0;cd mario_less/
+: 1643894248:0;gcc main.c 
+: 1643894253:0;kvim main.c
+: 1643894390:0;norminette main.c
+: 1643899750:0;kill 8710
+: 1643905106:0;kill 662030 662133 662066
+: 1643913619:0;kill 1040687 879890 
+: 1643931011:0;ifconfig 
+: 1643931017:0;man ifconfig
+: 1643931065:0;man ifconfig | grep
+: 1643931069:0;man ifconfig | grep ether
+: 1643931425:0;cd Dev/ecole42_rio/Semana_1/C/c00/ex06
+: 1643931438:0;cat ex05/main
+: 1643939581:0;kill 1041276 1041180 1041214
+: 1643939857:0;exitxit
+: 1643943336:0;man git ls-files
+: 1643951161:0;rm -r .vimrc *vim*
+: 1643951847:0;vim .vim
+: 1643951917:0;source .vimrc
+: 1644011406:0;sudo pacman -Syyu
+: 1644013289:0;calc
+: 1644013311:0;sudo pacman -S bc
+: 1644013887:0;git clone git@vogsphere.42.rio:vogsphere/intra-uuid-08f85d2a-16bb-4f12-8d3e-c904803ead4c-3983243-igturano
+: 1644014037:0;kill 2522 2624
+: 1644014089:0;cd Dev/
+: 1644014094:0;gh repo create 
+: 1644014225:0;ls 0l
+: 1644014316:0;git commit -m "Initial commit - Adding the directories"
+: 1644014340:0;git push --set-upstream origin master
+: 1644014396:0;git clone https://github.com/LohanGuedes/Rush00-Ecole42.git
+: 1644014419:0;gh clone https://github.com/LohanGuedes/Rush00-Ecole42.git
+: 1644014532:0;gh repo clone https://github.com/LohanGuedes/Rush00-Ecole42.git
+: 1644014536:0;gh 
+: 1644014541:0;git clone ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGmNiMR4QZQlwHYSVWNsPQ+GW/VHJthrdeYvlZ16PiUE lguedes@student.42.fr
+: 1644016099:0;cd .ssh/
+: 1644016102:0;cat id_ed25519.pub
+: 1644016216:0;cd Dev/C
+: 1644019333:0;git commit -m "Adding README"
+: 1644019443:0;touch ft_putchar.c
+: 1644019457:0;git add ft_putchar.c main.c
+: 1644019485:0;git commit -m "Adding, the main file and the ft_putchar"
+: 1644019788:0;git add README.md
+: 1644019799:0;git commit -m "Editing README.md"
+: 1644019995:0;touch rush02.c
+: 1644020026:0;git diff
+: 1644020036:0;mv rush04.c ex04
+: 1644020066:0;mv rush02.c ..
+: 1644020088:0;rm -r ex*
+: 1644020112:0;mv * ex00
+: 1644020119:0;mv *.c ex00
+: 1644020178:0;touch rush04.c
+: 1644020212:0;norminette rush04.c
+: 1644020364:0;cd .vim/
+: 1644021269:0;cd C/Rush00-Ecole42
+: 1644021730:0;touch MakeFile
+: 1644021735:0;vim MakeFile
+: 1644021767:0;rm -r MakeFile
+: 1644022086:0;gcc main.c rush02.c -Wall -Werror -Wextra -o ./testing
+: 1644022106:0;./testing 
+: 1644022162:0;./testing | cat -e
+: 1644023928:0;gcc main.c rush02.c ft_putchar.c -Wall -Werror -Wextra -o ./testing
+: 1644023985:0;gcc main.c rush02.c ft_putchar.c -Wall -Werror -Wextra -o testing
+: 1644023989:0;./testing
+: 1644024027:0;kill 1218722 1218781 1218826
+: 1644024503:0;./main | cat -eat
+: 1644024505:0;./main | cat -eAt
+: 1644024509:0;./main | cat -EAT
+: 1644026111:0;rm -r rush04.c
+: 1644026112:0;git oull
+: 1644026222:0;git commit -m 'added the logic to print each line'
+: 1644026252:0;bat rush04.c
+: 1644029722:0;./main > test.txt
+: 1644029790:0;rm -r test.txt
+: 1644029992:0;gcc main.c rush02.c ft_putchar.c -Wall -Werror -Wextra -o main
+: 1644030048:0;kill 1064486
+: 1644030700:0;git add -a rush02.c
+: 1644030704:0;git add rush02.c
+: 1644030734:0;git commit -m 'finished rush02 - ArrayLine logic'
+: 1644030763:0;git pull origin main
+: 1644030858:0;git config pull.rebase true
+: 1644030901:0;git clone https://github.com/LohanGuedes/Rush00-Ecole42 rush00
+: 1644030915:0;git clone git@github.com:LohanGuedes/Rush00-Ecole42.git rush00
+: 1644031017:0;cat ex00/rush02.c 
+: 1644031041:0;git clone 
+: 1644031079:0;git commit -m 'finished rush02 - ArrayLineLogic'
+: 1644031196:0;mv README.md ..
+: 1644031292:0;git commit -m 'Moving the README.md to the main directory'
+: 1644043679:0;font 
+: 1644043705:0;fc-cache ~/.local/share/fonts
+: 1644044041:0;sudo apt install gnome-tweaks
+: 1644044506:0;sudo apt-get install xcape
+: 1644044670:0;xcape -e 'Control_L=Escape' 
+: 1644044714:0;cat .profile
+: 1644044732:0;source ~/.profile
+: 1644044809:0;vi .zshrc
+: 1644044976:0;vi aliases
+: 1644045086:0;zinit -s
+: 1644045105:0;rm -r zsh
+: 1644045110:0;rm -r zinit
+: 1644045652:0;cd powerlevel10k
+: 1644045659:0;vim powerlevel9k.zsh-theme
+: 1644045705:0;vim kitty
+: 1644045978:0;viom
+: 1644046795:0;sudo apt install libtool
+: 1644046941:0;vi .profile
+: 1644047454:0;vim .zsh
+: 1644047477:0;nvim .zshrc.zni
+: 1644047496:0;nvim .profile
+: 1644047511:0;xcape
+: 1644047519:0;man xcape
+: 1644047538:0;xcape 
+: 1644047714:0;vim .zshrc
+: 1644047939:0;vim .bashrc
+: 1644047952:0;vim .zshrc.zni
+: 1644047968:0;vim kitty/kitty.conf
+: 1644048008:0;vim zsh_history
+: 1644048049:0;vim .profile
+: 1644048065:0;vim .zshenv
+: 1644048167:0;sudo apt install libtool cmake clang gcc 
+: 1644048275:0;cd zinit
+: 1644048296:0;find emacs
+: 1644048325:0;grep -iRl "emacs" ./
+: 1644048339:0;grep -iRl "your-text-to-find" ./
+: 1644048450:0;sudo apt install flameshot 
+: 1644048596:0;.emacs.d/bin/doom sync
+: 1644048727:0;/usr/bin/setxkbmap -option "caps:swapescape"\
+
+: 1644048866:0;[200~/usr/bin/setxkbmap -option "caps:swapescape"]
+: 1644048908:0;cd .emacs.d/.local/straight/build-27.1/vterm
+: 1644048923:0;cmake 
+: 1644048939:0;sudo apt install libtool-bin
+: 1644048948:0;cmake ..
+: 1644055134:0;kill 4648 4653 5035
+: 1644101896:0;cat .ssh/id_ed25519.pub
+: 1644102156:0;git clone https://github.com/LohanGuedes/Rush00-Ecole42
+: 1644110840:0;LS
+: 1644115904:0;env
+: 1644115930:0;env | tr 'lguedes' '_'
+: 1644117993:0;fc cache 
+: 1644118126:0;touch rush01.c
+: 1644118417:0;norminette rush03.c
+: 1644118436:0;sudo apt install python-pip
+: 1644118445:0;sudo apt install python -pip
+: 1644118601:0;gcc main.c rush01.c -o main 
+: 1644118694:0;[200~python3 -m pip install --upgrade pip setuptools]
+: 1644119627:0;ext
+: 1644121866:0;gcc main.c rush01.c ft_putchar.c -o main 
+: 1644121869:0;gcc main.c rush01.c ft_putchar.c -o main s
+: 1644127101:0;mkdir hello_world
+: 1644127103:0;cd hello_world
+: 1644127504:0;gcc -Wall -Werror -Wexta main.c -o main
+: 1644127508:0;gcc -Wall -Werror -Wextra main.c -o main
+: 1644127510:0;./maun
+: 1644137688:0;man ser
+: 1644138117:0;vim test.txt
+: 1644139506:0;cd Dev/42/Rush00-Ecole42/ex00
+: 1644139775:0;gcc -Wall -Werror -Wextra main.c ft_putchar.c rush02.c -o main
+: 1644140056:0;gcc -Wall -Werror -Wextra main.c ft_putchar.c rush01.c -o main_01
+: 1644150552:0;wget https://cdn.discordapp.com/attachments/899657754229227551/939859898416644126/Algorithm.dia
+: 1644150559:0;sudo apt install dia
+: 1644152921:0;cp 42/ex00/*.c test
+: 1644152966:0;rm -r rush01.c
+: 1644170150:0;cat rush04.c
+: 1644170279:0;gcc main.c ft_putchar.c rush02.c -o main 
+: 1644170348:0;gcc main.c ex00/ft_putchar.c rush04.c -o main 
+: 1644170757:0;gcc main.c ex00/ft_putchar.c rush04.c -o main
+: 1644174059:0;rm -r main main_01 
+: 1644174083:0;mv Algorithm.dia Algorithm_rush02.dia
+: 1644174089:0;mv Algorithm_rush02.dia ..
+: 1644174184:0;nvim rush02.c
+: 1644174502:0;norminette rush02.c
+: 1644174531:0;rm -r a.out main
+: 1644174542:0;rm -r rush01.c rush02.c
+: 1644174554:0;cp rush02.c ../42/Rush00-Ecole42/ex00
+: 1644174567:0;cp rush02.c ./rush01.c
+: 1644174665:0;nvim rush01.c
+: 1644174825:0;gcc ft_putchar.c main.c rush01.c -o main_01
+: 1644174829:0;./main_01
+: 1644174867:0;norminette rush01.c
+: 1644174876:0;cp rush02.c ./rush00.c
+: 1644174964:0;gcc ft_putchar.c main.c rush00.c -o main_00
+: 1644174967:0;./main_00
+: 1644175002:0;cp rush02.c ./rush03.c
+: 1644175047:0;gcc ft_putchar.c main.c rush03.c -o main_03
+: 1644175072:0;./main_03
+: 1644175078:0;cp rush02.c ./rush04.c
+: 1644175155:0;gcc ft_putchar.c main.c rush04.c -o main_04
+: 1644175161:0;./main_04
+: 1644175254:0;git commit -m "New logic for each rush, using less ifs"
+: 1644175288:0;git add Algorithm_rush02.dia 
+: 1644175313:0;git commit -m "Added Diagram explaining the logic behind the new file"
+: 1644192954:0;mkdir test2
+: 1644192957:0;cp test test2
+: 1644192962:0;cp -r test test2
+: 1644193023:0;cd test2
+: 1644193027:0;vim test
+: 1644193046:0;gcc *c test
+: 1644193118:0;cat main
+: 1644193130:0;time ./main
+: 1644193368:0;cat rush02.c \
+: 1644193369:0;cat rush02.c
+: 1644196679:0;vim mainOC
+: 1644196713:0;cat main.cls
+: 1644196823:0;gcc *c -o main
+: 1644196855:0;Dev/test
+: 1644196876:0;cp rush02.c rush00.c
+: 1644196879:0;cp rush02.c rush01.c
+: 1644197110:0;gcc ft_putchar.c main.c rush00.c -o main01 && ./main01
+: 1644197217:0;gcc ft_putchar.c main.c rush01.c -o main01 && ./main01
+: 1644197291:0;gcc ft_putchar.c main.c rush00.c -o main00 && ./main00
+: 1644197751:0;run-help cp
+: 1644197755:0;cp rush02.c rush04.c 
+: 1644197885:0;gcc ft_putchar.c main.c rush04.c -o main04 && ./main04
+: 1644198013:0;mv rush00.c rush01.c rush02.c ../42/Rush00-Ecole42/ex00
+: 1644198082:0;rm -r main_00 main_03 main_04 main_01 
+: 1644198087:0;rm rush04.c
+: 1644198093:0;cat *.c
+: 1644198109:0;cat *.c | echo '\n\n\n\n'
+: 1644198118:0;cat rush00.c
+: 1644198125:0;cat rush01.c
+: 1644198130:0;cat rush02.c
+: 1644198168:0;git commit -m "Added some new logic to the rush files - not arrays anymore"
+: 1644203789:0;cd 42/Rush00-Ecole42
+: 1644203804:0;rm -r main.c rush03.c rush04.c
+: 1644203826:0;touch rush03.c rush04.c
+: 1644203838:0;vim rush03
+: 1644203864:0;rm -r rush03
+: 1644203877:0;cat rush03.c
+: 1644203956:0;sudo apt-get install bat
+: 1644203983:0;sudo apt-get install rust-bat
+: 1644203994:0;sudo apt install bat
+: 1644204007:0;batcat rush03.c
+: 1644204044:0;mkdir -p ~/.local/bin
+: 1644204060:0;ln -s /usr/bin/batcat ~/.local/bin/bat
+: 1644204065:0;bat rush03.c
+: 1644204088:0;vim rush00.c
+: 1644204111:0;vim rush01.c
+: 1644204124:0;vim rush02.c
+: 1644204136:0;vim rush03.c
+: 1644204141:0;vim rush04.c
+: 1644204172:0;bat *.c
+: 1644204229:0;bat mainc
+: 1644204231:0;bat main.c
+: 1644204323:0;git add -A .
+: 1644204347:0;git commit -m 'Rush 00 - Final Push'
+: 1644233203:0;vc ex01
+: 1644233844:0;vim print_groups.sh
+: 1644233910:0;cat print_groups.sh
+: 1644234033:0;c ex02
+: 1644234051:0;./find_sh.sh
+: 1644234063:0;bat find_sh.sh
+: 1644234116:0;find .
+: 1644234123:0;./count_files.sh
+: 1644234184:0;cat count_files.sh 
+: 1644234189:0;cat count_files.sh | wc -l
+: 1644234356:0;ifconfig
+: 1644234439:0;ifconfig -a | awk '/ether / {print $2}'
+: 1644234616:0;c ex05
+: 1644234625:0;cat \"\\\?\$\*\'MaRViN\'\*\$\?\\\"
+: 1644234661:0;cat skip
+: 1644234701:0;ls -l | sed -n 'n;p'
+: 1644234740:0;man sed
+: 1644234795:0;cat skip.sh 
+: 1644234857:0;ls -l | sed 'p;n'
+: 1644234897:0;rm test*
+: 1644234962:0;touch test{00..10}
+: 1644234964:0;ls -l | sed -n 'p;n'
+: 1644234981:0;rm -rf  test
+: 1644235376:0;chmod +x r_dwssap.sh
+: 1644235398:0;vim ~/.zshrc
+: 1644235449:0;./r_dwssap.sh
+: 1644235486:0;rm -r ex08
+: 1644235492:0;rm pt_br.subject.pdf
+: 1644235583:0;cat ex05/\"\\\?\$\*\'MaRViN\'\*\$\?\\\" 
+: 1644235588:0;ls ex05
+: 1644235591:0;ls -l ex05
+: 1644235647:0;chmod -rwx ex05/\"\\\?\$\*\'MaRViN\'\*\$\?\\\"
+: 1644235667:0;chmod u+rw
+: 1644235670:0;chmod u+rw \"\\\?\$\*\'MaRViN\'\*\$\?\\\"
+: 1644235676:0;chmod g+x
+: 1644235678:0;chmod g+x \"\\\?\$\*\'MaRViN\'\*\$\?\\\"
+: 1644235684:0;chmod o+r \"\\\?\$\*\'MaRViN\'\*\$\?\\\"
+: 1644235789:0;ls -lRa *MaRV* | cat -e 
+: 1644316896:0;cd .vim
+: 1644316900:0;mkdir plugin
+: 1644316907:0;wget https://raw.githubusercontent.com/42Paris/42header/master/plugin/stdheader.vim
+: 1644317016:0;wget https://cdn.discordapp.com/attachments/929071364034416714/939027904594063401/vimrc
+: 1644317026:0;mv vimrc .vimrc
+: 1644317129:0;mkdir c01
+: 1644317132:0;mkdir c02
+: 1644317136:0;mkdir c03
+: 1644317152:0;mkdir ex0{0..8}
+: 1644317175:0;vim ~/.vimrc
+: 1644317186:0;vim ex00/ft_putchar.c
+: 1644317258:0;make print_alpha
+: 1644317265:0;make ft_print_alphabet
+: 1644317268:0;./ft_print_alphabet
+: 1644317353:0;rm ft_print_alphabet
+: 1644317372:0;vim ft_print_reverse_alphabet.c
+: 1644317426:0;vim ft_print_numbers.c
+: 1644317456:0;vim ft_is_negative.c
+: 1644317735:0;vim ft_print_comb.c
+: 1644317748:0;vim ft_print_comb2.c 
+: 1644317810:0;cd Dev/42/ecole42_rio/Semana_1
+: 1644320360:0;cd  Semana_01
+: 1644320372:0;cd c0
+: 1644320374:0;cd 01
+: 1644320376:0;cd c08
+: 1644320415:0;wget https://cdn.intra.42.fr/pdf/pdf/33304/pt_br.subject.pdf
+: 1644320425:0;mv * ..
+: 1644320450:0;touch ft_ft.c
+: 1644322065:0;cd  c00/ex06
+: 1644322075:0;touch ideias.md
+: 1644322799:0;bat ft_print_comb.c
+: 1644324697:0;make ft_print_comb2\
+: 1644324698:0;make ft_print_comb2
+: 1644327293:0;cd 42/ecole42_rio/Semana_1/C/c00
+: 1644327946:0;make ft_print_comb
+: 1644328072:0;kill 2369 35452
+: 1644328340:0;cd 42/ecole42_rio/Semana_1/C/c00/ex06
+: 1644328342:0;./
+: 1644329037:0;cd Semana_1/C/c00/ex06
+: 1644330033:0;kill 39427
+: 1644330508:0;cd C/c06
+: 1644330510:0;cd C/c01
+: 1644330521:0;cd ../
+: 1644330525:0;cd C/c02
+: 1644330533:0;cd C/c00
+: 1644339677:0;cd ecole42_rio/Semana_1/Shell/shell_01
+: 1644339714:0;touch ex0{0..9}
+: 1644339858:0;vim skip.sh
+: 1644339866:0;./skip.sh
+: 1644339923:0;vim r_dwssap.sh
+: 1644339979:0;mkdir ex08
+: 1644340060:0;vim find_sh.sh
+: 1644340091:0;cat ex01/print_groups.sh
+: 1644340143:0;bash ex01/print_groups.sh
+: 1644340160:0;bat count_files.sh
+: 1644340178:0;bat MAC.sh
+: 1644340724:0;touch add_chelou.sh
+: 1644341758:0;sudo apt-get install ranger
+: 1644341772:0;ranger
+: 1644342598:0;cd Dev/42/ecole42_rio/Semana_1/Shell/shell_01
+: 1644342752:0;chmod +x *.sh
+: 1644342781:0;bc 
+: 1644342839:0;vim add_chelou.sh ''
+: 1644342897:0;vim add_chelou.sh 
+: 1644344413:0;bc
+: 1644344536:0;vim add_chelou.sh
+: 1644346639:0;cd Dev/42/ecole42_rio/Semana_1/C/c00/ex05
+: 1644346838:0;c..
+: 1644346848:0;cd c00/ex05
+: 1644351832:0;cd Shell/shell_01
+: 1644353564:0;man strcpy
+: 1644354767:0;cd Semana_1/C/c02
+: 1644354776:0;mv ft_strcpy.c ex01/
+: 1644354779:0;mkdir ex00
+: 1644354783:0;mv ft_strcpy.c ex00
+: 1644354902:0;make ft_strcpy.c
+: 1644354906:0;make ft_strcpy
+: 1644354910:0;./ft_strcpy
+: 1644355005:0;rm -r ft_strcpy
+: 1644355016:0;norminette ft_strcpy.c
+: 1644355070:0;rm ft_strcpy.c
+: 1644355083:0;mkdir ex0{1..8}
+: 1644355098:0;touch ft_strncpy.c
+: 1644355512:0;cd Semana_1/C/c02/ex01
+: 1644356137:0;clang ft_strncpy.c -o ft_strncpy
+: 1644356593:0;make ft_strncpy
+: 1644356610:0;./ft_strncpy
+: 1644356684:0;norminette ft_strncpy
+: 1644356730:0;cd Semana_1/C/c02/ex02
+: 1644356755:0;touch ft_str_is_alpha.c
+: 1644357107:0;norminette ft_strncpy.c
+: 1644357457:0;make ft_str_is_alpha.c
+: 1644357533:0;make ft_str_is_alpha
+: 1644357534:0;./ft_str_is_alpha
+: 1644357621:0;touch ft_str_is_numeric.c
+: 1644357992:0;touch ft_str_is_lowercase.c
+: 1644358821:0;make ft_strupcase.c
+: 1644359694:0;./ft_strupcase
+: 1644359787:0;make ft_strupcase
+: 1644361678:0;sudo apt install droidcam
+: 1644361783:0;sudo rm -Rf /opt/droidcam*
+: 1644361789:0;sudo rm -Rf /usr/bin/droidcam
+: 1644361793:0;sudo rm -Rf /usr/share/applications/droidcam.desk
+: 1644361802:0;sudo rm -Rf /usr/share/applications/droidcam.desktop
+: 1644361812:0;sudo apt-get install linux-headers-`uname -r`
+: 1644361826:0;uname -m
+: 1644361836:0;wget https://www.dev47apps.com/files/600/droidcam-64bit.tar.bz2 -O droidcam.tar.bz2
+: 1644361863:0;tar xf droidcam.tar.bz2
+: 1644361875:0;sudo tar -xjvf droidcam.tar.bz2
+: 1644361893:0;wget https://www.dev47apps.com/files/600/droidcam-64bit.tar.bz2
+: 1644361902:0;sudo tar -xjvf *.tar.bz2
+: 1644361951:0;sudo apt install obs-studio
+: 1644365558:0;rm -r *.bz2
+: 1644365593:0;cd 42/ecole42_rio
+: 1644366209:0;nvim ft_print_comb2
+: 1644366234:0;make ft_print_comb2\
+: 1644366235:0;make ft_print_comb2
+: 1644366262:0;./ft_print_comb2.c
+: 1644367263:0;make ft_print_comb2
+: 1644367281:0;vim ft_print_comb2
+: 1644367285:0;./ft_print_comb2
+: 1644367307:0;vim ideias.md
+: 1644367312:0;rm -r ideias.md
+: 1644367317:0;rm -r ft_print_comb2
+: 1644367422:0;cat ../ex06/ft_print_comb2.c 
+: 1644367801:0;vim ft_putnbr.c 
+: 1644367993:0;touch ft_print_combn.c
+: 1644370561:0;vim ft_print_alphabet.c
+: 1644370605:0;bat ft_print_alphabet.c
+: 1644370615:0;cat ft_putchar.c
+: 1644370625:0;cat ft_print_alphabet.c
+: 1644370632:0;cat ft_print_reverse_alphabet.c
+: 1644370655:0;cat ft_print_numbers.c 
+: 1644370801:0;cat ft_ft.c
+: 1644370881:0;vim ft_ft.c
+: 1644370910:0;touch ft_ultimate_ft.c
+: 1644371025:0;touch ft_swap.c
+: 1644371117:0;touch ft_div_mod.c
+: 1644371221:0;vim ..
+: 1644371244:0;touch ft_ultimate_div_mod.c
+: 1644371454:0;run-help touch
+: 1644371891:0;touch ft_rev_int_tab.c
+: 1644372599:0;make ft_rev_int_tab 
+: 1644413818:0;msn strncmp
+: 1644413821:0;man strncmp
+: 1644414197:0;cd Dev/42/ecole42_rio/Semana_1/C/c02/ex09
+: 1644414408:0;git commit -m "Finished ex09 c02"
+: 1644414573:0;man strlcpy
+: 1644414846:0;make ft_strcapitalize
+: 1644414851:0;./ft_strcapitalize
+: 1644415186:0;mkdir ex10
+: 1644415196:0;touch ft_strlcpy.c
+: 1644426489:0;cd Semana_1/
+: 1644426503:0;make ft_print_combn
+: 1644426822:0;time ./ft_sort_int_tab
+: 1644428266:0;rm -r ft_sort_int_tab
+: 1644428280:0;ils
+: 1644430438:0;cd Dev/42/ecole42_rio/Semana_1/Shell
+: 1644430446:0;bat print_groups.sh
+: 1644430483:0;cat find_sh.sh
+: 1644430497:0;cat count_files.sh
+: 1644430514:0;cat MAC.sh
+: 1644430524:0;rm ex*
+: 1644430526:0;cat skip.sh
+: 1644485796:0;yay -S kmonad-bin
+: 1644485983:0;cp C ../../../42_lists
+: 1644485990:0;cp C -r ../../../42_lists
+: 1644486008:0;rm -r C
+: 1644486028:0;cd 42
+: 1644486040:0;git statys
+: 1644486043:0;;s
+: 1644486050:0;rm -r Rush00-Ecole42
+: 1644486076:0;rm -r test test2
+: 1644487079:0;nvim --version
+: 1644487379:0;git clone https://github.com/neovim/neovim/tree/release-0.6 nvim
+: 1644487389:0;git clone https://github.com/neovim/neovim.git nvim
+: 1644487495:0;sudo apt remove nvim
+: 1644487500:0;sudo apt remove neovim
+: 1644487531:0;novim
+: 1644487539:0;make CMAKE_BUILD_TYPE=RelWithDebInfo\
+sudo make install
+: 1644487705:0;vim ft_putchar.c
+: 1644487760:0;cat ex00/ft_putchar.c 
+: 1644487771:0;cat ex01
+: 1644487774:0;cat ex01/ft_print_alphabet.c
+: 1644487788:0;cat ft_print_numbers.c
+: 1644487807:0;cat ft_is_negative.c
+: 1644487830:0;cat ft_print_comb.c
+: 1644487854:0;cd ex06/'
+: 1644487855:0;cd ex06/
+: 1644488140:0;sudo apt install -y np,
+: 1644488793:0;yarn 
+: 1644488801:0;sudo apt install npm
+: 1644488812:0;sudo bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+: 1644488835:0;sudo yarn 
+: 1644490870:0;cf
+: 1644490915:0;mkdir nvim
+: 1644490917:0;cd n
+: 1644491418:0;nvils
+: 1644494451:0;nvim ft_print_combn.c
+: 1644498077:0;git clone git@github.com:LohanGuedes/review_c00_rwallier.git
+: 1644498093:0;cp ../42_lists/c00 .
+: 1644498098:0;cp -r ../42_lists/c00 .
+: 1644505282:0;vim c00
+: 1644505294:0;nvim c00
+: 1644505337:0;cd review_c00_rwallier
+: 1644505369:0;nvim ft_print_comb2.c 
+: 1644505448:0;cat ft_print_comb2.c
+: 1644505454:0;cat -T ft_print_comb2.c
+: 1644505481:0;vim ft_print_comb2.c
+: 1644505512:0;norminette ft_print_comb2.c
+: 1644505531:0;git commit -m "sdjkfhksadf"
+: 1644505918:0;cd Dev/review_c00_rwallier/c00/ex08
+: 1644505920:0;vim ft_print_combn.c
+: 1644505941:0;git commit -m "Finished c00"
+: 1644507068:0;vim ft_ultimate_ft.c
+: 1644507086:0;nvim ft_swap.c
+: 1644507107:0;vim ft_swap.c
+: 1644507186:0;cat -e ft_ultimate_div_mod.c
+: 1644507189:0;vim ft_ultimate_div_mod.c
+: 1644507192:0;nvim ft_ultimate_div_mod.c
+: 1644507505:0;nvim ft_strlen.c
+: 1644507921:0;nvim ft_div_mod.c
+: 1644507930:0;cat ft_div_mod.c
+: 1644508027:0;rm -r pt_br.subject.pdf
+: 1644513232:0;make ft_sort_int_tab
+: 1644513233:0;./ft_sort_int_tab
+: 1644531346:0;sudo apt install flameshot
+: 1644531508:0;sudo apt install kitty
+: 1644532192:0;\
+\
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+: 1644532206:0;source $HOME/.cargo/env
+: 1644532213:0;cargo install lsd
+: 1644533054:0;sudo apt install xdotool
+: 1644534114:0;cat ft_strcpy.c
+: 1644574171:0;sudo apt install emacs
+: 1644574193:0;luajit 
+: 1644574235:0;ln -sf kitty-themes/palenight.conf theme.conf
+: 1644574253:0;vi kitty.conf
+: 1644574307:0;git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.emacs.d\
+~/.emacs.d/bin/doom install
+: 1644574999:0;sudo apt install python3-pip
+: 1644575019:0;python3 -m pip install --upgrade pip setuptools\
+python3 -m pip install norminette
+: 1644575030:0;nominette
+: 1644575099:0;vim .vimrc
+: 1644575133:0;vim ft_sort_int_tab
+: 1644575222:0;sudo apt install neovim
+: 1644575240:0;vi ft_sort_int_tab
+: 1644575272:0;gcc -Wall -Werror -Wexta ft_sort_int_tab.c -o main
+: 1644575278:0;gcc -Wall -Werror -Wextra ft_sort_int_tab.c -o main
+: 1644575285:0;rm ft_sort_int_tab main
+: 1644575289:0;vi ft_sort_int_tab.c
+: 1644576989:0;rm -r ft_strncpy
+: 1644577000:0;rm -r ft_str_is_alpha
+: 1644577009:0;ls */*
+: 1644577017:0;rm -r ft_strcapitalize
+: 1644577083:0;mkdir ex11 ex12
+: 1644577096:0;touch ft_print_memory.c
+: 1644577116:0;echo "C'est fini" > ft_print_memory.c
+: 1644577119:0;cat ft_print_memory.c
+: 1644577135:0;touch ft_putstr_non_printable.c
+: 1644577142:0;echo "C'est fini" > ft_putstr_non_printable.c
+: 1644605074:0;touch main.c inter_main.c
+: 1644615099:0;sudo apt install fliget 
+: 1644615133:0;tmux
+: 1644617458:0;kill 17039 17125
+: 1644667931:0;malloc
+: 1644667935:0;man malloc
+: 1644678491:0;cd /home/lguedes/Dev/42_lists/c00/ex07
+: 1644678556:0;make ft_putnbr
+: 1644678557:0;./ft_putnbr
+: 1644678562:0;vim ft_putnbr
+: 1644678564:0;nvim ft_putnbr
+: 1644681135:0;touch notes.md
+: 1644681136:0;vim notes.md
+: 1644681180:0;nvim notes.md
+: 1644683495:0;gcc ft_rev_int_tab 
+: 1644683502:0;make ft_rev_int_tab
+: 1644683585:0;nvim ft_rev_int_tab
+: 1644683598:0;vim ft_rev_int_tab
+: 1644683628:0;./ft_rev_int_tab
+: 1644683638:0;rm -r ft_rev_int_tab
+: 1644683641:0;cat ft_rev_int_tab.c
+: 1644683709:0;rm main
+: 1644683732:0;cat ft_sort_int_tab.c
+: 1644683761:0;gcc -Wall -Wextra -Werror *.c -o main
+: 1644683772:0;vim ft_sort_int_tab.c
+: 1644683806:0;nvim ft_sort_int_tab.c
+: 1644684173:0;cd De
+: 1644684205:0;cd shell_01
+: 1644684210:0;ca ex07/r_dwssap.sh 
+: 1644684217:0;cat ex07/r_dwssap.sh 
+: 1644684229:0;cat etc/passwd
+: 1644684233:0;cat /etc/passwd
+: 1644684248:0;cat r_dwssap.sh
+: 1644684280:0;cd ex08\
+: 1644684281:0;cd ex08
+: 1644684282:0;lca
+: 1644684283:0;cat add_chelou.sh
+: 1644684289:0;./add_chelou.sh
+: 1644684339:0;cat add_chelou.sh 
+: 1644684390:0;man bc
+: 1644684434:0;mkdir rush01
+: 1644684435:0;cat rush01
+: 1644684437:0;cd  rush01
+: 1644684448:0;touch print_grid.c
+: 1644684487:0;nvim print_grid.c
+: 1644684878:0;cd Dev/ecole42_rio/Semana_2/rush01
+: 1644684887:0;sudo apt install neofech
+: 1644684897:0;sudo apt install neofetch
+: 1644684916:0;time neofetch
+: 1644684981:0;gcc -Wall -Werror -Wexta *.c -o main print_grid.c
+: 1644685194:0;vim print_grid.c
+: 1644685196:0;gcc -Wall -Werror -Wextra *.c -o main print_grid.c
+: 1644685263:0;sudo apt install clang
+: 1644685420:0;clang -Wall -Werror -Wextra -v *.c -o main print_grid.c
+: 1644685424:0;clang -Wall -Werror -Wextra *.c -o main print_grid.c
+: 1644685771:0;./main | cat -e
+: 1644686143:0;./main aa
+: 1644686295:0;./main 
+: 1644686301:0;./main aaaa aaaa
+: 1644686337:0;clang -Wall -Werror -Wextra *.c -o main
+: 1644686338:0;./main aaaa 
+: 1644687243:0;cd ~/.config
+: 1644687248:0;cd kitty/kitty-themes
+: 1644687305:0;nvim .vimrc
+: 1644687399:0;sudo apt install fliget
+: 1644687492:0;sudo apt install figlet
+: 1644687507:0;figlet Ja volto, 5 min <3
+: 1644687511:0;figlet Ja volto 5 min <3
+: 1644687545:0;man figlet
+: 1644687559:0;figlet ja volto 5min
+: 1644687567:0;figlet Ja volto 5min
+: 1644687575:0;figlet Ja volto 5min :3
+: 1644687591:0;clock
+: 1644687624:0;cd lguedes
+: 1644687627:0;Dev
+: 1644687645:0;cat .zshrc
+: 1644687895:0;fcd ecole42_rio
+: 1644687900:0;ecole42_rio
+: 1644687920:0;lss
+: 1644687926:0;vim ft_div_mod.c
+: 1644687950:0;bash
+: 1644690843:0;sudo apt install libvterm
+: 1644690848:0;sudo apt install libvterm-bin
+: 1644690867:0;cd .emacs.d
+: 1644690870:0;cd bin
+: 1644690878:0;cd modules
+: 1644690882:0;cd term
+: 1644690884:0;cd vterm
+: 1644690905:0;cd /home/lguedes/.emacs.d/.local/straight/build-27.1/vterm\
+
+: 1644690955:0;sudo apt install rip-grep
+: 1644690965:0;~/.emacs.d/bin/doom doctor 
+: 1644691019:0;cat README.md
+: 1644691074:0;make install
+: 1644691080:0;cd build
+: 1644691083:0;cd CMakeFiles/
+: 1644691101:0;sudo apt install cmake\
+sudo apt install libtool\
+sudo apt install libtool-bin
+: 1644691266:0;git init 
+: 1644691279:0;git commit -m "Adding stuff"
+: 1644691345:0;source 
+: 1644691612:0;gcc -Wall -Wextra -Werror *.c -o  main && ./main
+: 1644691708:0;vim aliases
+: 1644691714:0;nvim aliases
+: 1644691792:0;zinit update -s
+: 1644692155:0;sudo apt install screenkey
+: 1644692486:0;vim inter_main.c
+: 1644692495:0;rm -r inter_main.c
+: 1644692737:0;vim test.md
+: 1644692966:0;kill 124878
+: 1644695592:0;nano
+: 1644697084:0;ev
+: 1644697178:0;touch ft_strncmp.c
+: 1644700633:0;cd Dev;
+: 1644701586:0;exitl
+: 1644707436:0;git clone git@github.com:LohanGuedes/Rush00-Ecole42.git
+: 1644712067:0;touch ft_strstr.c
+: 1644714049:0;42makd
+: 1644722171:0;touch ft_strlcat.c
+: 1644722306:0;cp 42_lists test
+: 1644722311:0;cp -r 42_lists test
+: 1644722317:0;rm -r a.out main.c
+: 1644722325:0;git clone git@github.com:eduardomosko/fake-moulinnete.git
+: 1644722379:0;cp ft_strstr.c ../../../fake-moulinnete/c03-tests/
+: 1644722431:0;gcc -Wall -Wextra -Werror ft_strstr.c ex04.c
+: 1644722460:0;vim ex04.c
+: 1644722562:0;ln -sf kitty-themes/Hardcore.conf theme.conf
+: 1644722574:0;/home/lguedes/Dev/test/fake-moulinnete/c03-tests
+: 1644722632:0;rm -r 	a.out 
+: 1644722784:0;make42
+: 1644722896:0;cd test/
+: 1644722916:0;mv ex04.c ~/Dev/42_lists/c03/ex04
+: 1644723364:0;gcc -Wall -Wextra -Werror ft_strstr.c ex04.c -o main
+: 1644723647:0;normeinette ft_strstr.c
+: 1644723654:0;norminette ft_strstr.c
+: 1644724443:0;cd fake-moulinnete
+: 1644724452:0;cd c03-tests
+: 1644724463:0;mv ex05.c ~/Dev/42_lists/c03/ex05
+: 1644724505:0;gcc -Wall -Wextra -Werror ft_strcat.c ex05.c -o main
+: 1644724513:0;gcc -Wall -Wextra -Werror ft_strlcat.c ex05.c -o main
+: 1644724743:0;cc -Wall -Wextra -Werror -lbsd ~/joaonette/$(basename $(dirname $PWD))/$(basename $PWD)/*.c *.c\
+# You can alias this command:
+: 1644724768:0;cat ~/.zshrc
+: 1644724904:0;wget https://raw.githubusercontent.com/eduardomosko/fake-moulinnete/main/c03-tests/ex05.c
+: 1644724919:0;rm -r main.c
+: 1644724922:0;rm -r expected_output
+: 1644725075:0;gcc -lbsd *.c -o main
+: 1644725079:0;vim ex05.c
+: 1644725105:0;rm -r ex05.c
+: 1644725132:0;wget https://raw.githubusercontent.com/VLN37/basecamp-tests/main/C03/ex05/main.c
+: 1644725163:0;wget https://raw.githubusercontent.com/VLN37/basecamp-tests/main/C03/ex05/expected_output
+: 1644725170:0;gcc -Wall -Werror -Wextra -lbsd *.c -o main
+: 1644725270:0;sudo apt-get install  libbsd-dev
+: 1644725279:0;pwd
+: 1644725288:0;/home/lguedes/Dev/42_lists/c03/ex05
+: 1644725711:0;edit
+: 1644728403:0;lks
+: 1644770191:0;cd x03
+: 1644770510:0;sudo apt intall libbsd
+: 1644770530:0;sudo apt-get install libbsd
+: 1644770588:0;cat ~/.config/zsh/aliases
+: 1644770668:0;mkdir c04
+: 1644770752:0;mkdir ex0{0..5}
+: 1644770778:0;touch ft_strlen.c
+: 1644770842:0;touch ft_putstr.c
+: 1644771137:0;touch ft_putnbr.c
+: 1644771378:0;touch ft_atoi.c
+: 1644773320:0;gcc -Wall -Wextra -Werror $(find -type f -name "*.c") all.c [flags adicionais]
+: 1644773329:0;gcc -Wall -Wextra -Werror $(find -type f -name "*.c") all.c -lbsd
+: 1644773365:0;42makwe
+: 1644773390:0;cd ex2
+: 1644792913:0;lcd ..
+: 1644792929:0;cd home
+: 1644792929:0;iiiiiiiiexit
+: 1644794649:0;rm -r fake-moulinnete
+: 1644794657:0;touch test.c
+: 1644794668:0;nvim test.c
+: 1644794894:0;vim 42_lists
+: 1644794921:0;vim test.c
+: 1644802855:0;mkdir rush01_4fun
+: 1644802878:0;touch .projectil;e
+: 1644804978:0;time norminette | wc -vaitromanrnocugneves
+: 1644805176:0;time norminette
+: 1644805183:0;time norminette | wc -l
+: 1644805213:0;gcc main.c
+: 1644805636:0;./a.out
+: 1644805687:0;gcc -d main.c
+: 1644805695:0;sudo apt install gdb
+: 1644805716:0;gdb a.out
+: 1644805873:0;rm -r main a.out
+: 1644806050:0;./main | cat -e 
+: 1644806412:0;gdb
+: 1644806422:0;gdb main
+: 1644807137:0;make mamin
+: 1644807182:0;make main
+: 1644844142:0;cd rush01_4fun
+: 1644844328:0;gcc *.c 
+: 1644844336:0;vim main.c
+: 1644848294:0;kill 2911 
+: 1644851338:0;wget 
+: 1644851346:0;wget https://raw.githubusercontent.com/eduardomosko/fake-moulinnete/main/c04-tests/ex03.c
+: 1644853501:0;touch ft_putnbr_base.c
+: 1644853533:0;wget https://raw.githubusercontent.com/eduardomosko/fake-moulinnete/main/c04-tests/ex04.c
+: 1644853680:0;cp -R * ../ecole42_rio/Semana_1/C/
+: 1644853699:0;git commit -m "Doing c04, ex04"
+: 1644854727:0;mkdir c05
+: 1644855345:0;wget https://raw.githubusercontent.com/eduardomosko/fake-moulinnete/main/c05-tests/ex00.c
+: 1644855571:0;touch ft_recursive_factorial.c
+: 1644855906:0;wget https://github.com/eduardomosko/fake-moulinnete/blob/main/c05-tests/ex01
+: 1644855945:0;wget https://raw.githubusercontent.com/eduardomosko/fake-moulinnete/main/c05-tests/ex01.c
+: 1644855992:0;touch ft_iterative_power.c
+: 1644856354:0;wget https://raw.githubusercontent.com/eduardomosko/fake-moulinnete/main/c05-tests/ex02.
+: 1644856356:0;wget https://raw.githubusercontent.com/eduardomosko/fake-moulinnete/main/c05-tests/ex02.c
+: 1644856423:0;touch ft_recursive_power.c
+: 1644856548:0;wget https://raw.githubusercontent.com/eduardomosko/fake-moulinnete/main/c05-tests/ex03.c
+: 1644856748:0;cd zsh
+: 1644856749:0;vim 
+: 1644856751:0;vim .
+: 1644856965:0;touch ft_fibonacci.c
+: 1644856976:0;cd ex-4
+: 1644857321:0;wget https://github.com/eduardomosko/fake-moulinnete/blob/main/c05-tests/ex04.c
+: 1644857339:0;rm -r ex04.c 
+: 1644857346:0;wget https://raw.githubusercontent.com/eduardomosko/fake-moulinnete/main/c05-tests/ex04.c
+: 1644857411:0;touch ft_sqrt.c
+: 1644857934:0;wget https://raw.githubusercontent.com/eduardomosko/fake-moulinnete/main/c05-tests/ex05.c
+: 1644857944:0;rm -r ex05.c.1
+: 1644858268:0;touch ft_is_prime/c
+: 1644858270:0;touch ft_is_prime.c
+: 1644865236:0;rm --r main
+: 1644866192:0;wget https://raw.githubusercontent.com/eduardomosko/fake-moulinnete/main/c02-tests/ex00.c
+: 1644866383:0;wget https://raw.githubusercontent.com/eduardomosko/fake-moulinnete/main/c03-tests/ex00.c
+: 1644870939:0;sudo apt install vscodium
+: 1644870946:0;sudo apt install vscode
+: 1644870950:0;sudo apt install code
+: 1644871078:0;rm -r test 
+: 1644871088:0;rm -rf test 
+: 1644871456:0;cd C
+: 1644871484:0;cp ft_strcmp.c ~/Dev/42_lists/c03/ex00
+: 1644872662:0;cat ex00.c
+: 1644873348:0;rm -r ex00.c
+: 1644873351:0;make .
+: 1644873353:0;make ft_strcmp.c
+: 1644873354:0;make ft_strcmp
+: 1644873419:0;cat ft_strncmp.c
+: 1644874029:0;42make -lbsd 
+: 1644874147:0;cat ft_strncat.c
+: 1644874180:0;42make -lbsd \
+: 1644874182:0;42make -lbsd
+: 1644874251:0;./mian
+: 1644874349:0;cat ft_strstr.c
+: 1644877311:0;cd 42_lists/c03
+: 1644879005:0;tar -f c02
+: 1644879007:0;tar -c c02
+: 1644879022:0;tar -cf c02
+: 1644879037:0;tar -cf * c02.tar
+: 1644879046:0;tar -cfr * c02.tar
+: 1644879054:0;rm -r r
+: 1644879382:0;file .
+: 1644879385:0;file
+: 1644879389:0;nautilus 
+: 1644883399:0;cat ex04
+: 1644883424:0;rm -r ex04.c
+: 1644883436:0;rm */main
+: 1644883473:0;rm -r c05.zip
+: 1644885065:0;cat ft_is_prime.c
+: 1644885082:0;mkdir c06
+: 1644891528:0;rm -r c06
+: 1644891533:0;wget https://cdn.discordapp.com/attachments/940649913337921557/942968065644167168/c06.tar
+: 1644891540:0;tar -xf c06.tar
+: 1644891545:0;rm -r c06.tar
+: 1644891557:0;vim ft_print_program_name.c
+: 1644891587:0;vim ft_rev_params.c 
+: 1644891611:0;cat ft_rev_params.c
+: 1644891622:0;vim ft_sort_params.c
+: 1644891645:0;vim ft_print_program_name.c 
+: 1644891784:0;vim ft_strncpy.c
+: 1644891858:0;nvim ft_str_is_alpha.c
+: 1644891869:0;vim ft_str_is_alpha.c
+: 1644891916:0;morminette 
+: 1644891941:0;vim ft_str_is_numeric.c
+: 1644891985:0;nvim ft_str_is_numeric.c
+: 1644892008:0;nvim ft_str_is_lowercase.c
+: 1644892014:0;vim ft_str_is_lowercase.c
+: 1644892062:0;vim ft_str_is_uppercase.c
+: 1644892070:0;nvim ft_str_is_uppercase.c
+: 1644892091:0;vim ft_strupcase.c
+: 1644892108:0;nvim ft_strupcase.c
+: 1644892152:0;vim ft_lowercase.c
+: 1644892160:0;nvim ft_lowercase.c
+: 1644892229:0;cd ex09
+: 1644892234:0;vim ft_strcapitalize.c
+: 1644892319:0;nvim ft_strcapitalize.c
+: 1644892365:0;vim ft_strlcpy.c
+: 1644892387:0;nvim ft_strlcpy.c
+: 1644892403:0;cd ex10
+: 1644892414:0;cd ex12
+: 1644892420:0;vim ft_print_memory.c
+: 1644892435:0;nvim ft_print_memory.c
+: 1644892452:0;cd ex11
+: 1644892455:0;vim ft_putstr_non_printable.c
+: 1644892580:0;vim ft_str_is_printable.c
+: 1644892589:0;nvim ft_str_is_printable.c
+: 1644892609:0;norminette c02
+: 1644892612:0;norminette c03
+: 1644892616:0;norminette c01
+: 1644892664:0;norminette c00 c01 c02
+: 1644892675:0;lw
+: 1644892695:0;wget wget https://raw.githubusercontent.com/eduardomosko/fake-moulinnete/main/c03-tests/ex00.c
+: 1644892765:0;nvim ft_strcmp.c
+: 1644892873:0;nvim ex00.c
+: 1644892888:0;vim ex00.c
+: 1644892942:0;cat ft_strcmp.c
+: 1644892982:0;vim ft_strcmp.c
+: 1644892994:0;42make -lbsd
+: 1644893006:0;cd ex00/q
+: 1644893008:0;cd ex00/
+: 1644893087:0;rm -r */main*
+: 1644893190:0;cd ex08
+: 1644893205:0;mv ft_lowercase.c ft_strlowcase.c
+: 1644893228:0;vim ft_strcpy.c
+: 1644893250:0;code .
+: 1644944935:0;cat ft_strlen.c
+: 1644944968:0;cat ft_putnbr.c
+: 1644944987:0;cat ft_atoi.
+: 1644944990:0;cat ft_atoi.c ft_atoi.c
+: 1644944995:0;cat ft_atoi.c 
+: 1644948129:0;nvim ft_strncmp.c
+: 1644948144:0;cat ft_strcat.c
+: 1644948153:0;vim ft_strcat.c
+: 1644948168:0;vim ft_strncat.c
+: 1644948713:0;nvim ft_strncat.c
+: 1644987404:0;lds
+: 1644987428:0;norm
+: 1644987448:0;vim ft_strstr.c
+: 1644987509:0;nvim ft_strcat.c
+: 1644987542:0;norminette 
+: 1644987550:0;vim ft_strlcat.c
+: 1644987595:0;grep lohanzinho
+: 1644987604:0;cat ft_strncpy.c
+: 1644988094:0;nvim ft_strlcat.c
+: 1644988295:0;nvim ft_strstr.c
+: 1644992880:0;nvim Dev
+: 1644993309:0;kill 96733 96736
+: 1644995636:0;curl getnews.tech/world+cup
+: 1645037701:0;sudo apt install allacrity 
+: 1645037709:0;sudo apt install alacritty 
+: 1645038216:0;sudo apt install fzf
+: 1645038246:0;sudo apt remove neovim 
+: 1645039383:0;cd neovim
+: 1645039399:0;git checkout nightly
+: 1645039415:0;lsgit checkout eval-clear-rebase-1-compiles-and-passes-u-tests-6-next
+: 1645039614:0;neovim
+: 1645039623:0;cmake
+: 1645039642:0;sudo apt install cmake
+: 1645039682:0;sudo apt install luajit
+: 1645039709:0;[200~make CMAKE_BUILD_TYPE=Release]
+: 1645039723:0;sudo apt-get install ninja-build gettext libtool libtool-bin autoconf automake cmake g++ pkg-config unzip curl doxygen
+: 1645039970:0;make CMAKE_BUILD_TYPE=Release\
+sudo make install
+: 1645040033:0;git checkout 9ef569613
+: 1645040046:0;rm -r neovim
+: 1645040050:0;rm -rf neovim
+: 1645040056:0;sudo rm -rf neovim
+: 1645040059:0;git clone https://github.com/neovim/neovim
+: 1645040085:0;cd neovim/ && make
+: 1645040196:0;sudo make install
+: 1645040218:0;sudo apt install npm yarn nodejs cargo
+: 1645040325:0;sudo apt install -y npm 
+: 1645040339:0;yarn
+: 1645040352:0;cd flameshot
+: 1645040395:0;mkdir alacritty
+: 1645040400:0;git clone https://gitlab.com/dwt1/dotfiles/-/raw/master/.config/alacritty/alacritty.yml
+: 1645040427:0;lvim alacritty.yml
+: 1645040511:0;cd alacritty
+: 1645040578:0;sudo apt install -y yarn 
+: 1645040596:0;sudo apt remove yarn
+: 1645040612:0;sudo apt install -y npm
+: 1645040618:0;sudo apt install -y nodejs
+: 1645040629:0;sudo
+: 1645040742:0;alacritty --version
+: 1645045049:0;vim alacritty.yml
+: 1645045194:0;sudo apt install -y yarn
+: 1645045207:0;sudo apt install yarn
+: 1645045223:0;man yarn
+: 1645045856:0;vim kitty.conf
+: 1645046025:0;ls l
+: 1645047495:0;rm -r c02.zip
+: 1645047513:0;vim ft_strlen.c
+: 1645047780:0;sudo apt install batcat
+: 1645047788:0;cargo install batcat
+: 1645047791:0;cargo install bat
+: 1645048002:0;bat ft_strlen.c
+: 1645048006:0;batcat 
+: 1645048007:0;bat
+: 1645048082:0;cat ft_putstr.c
+: 1645048092:0;vim ft_putstr.c
+: 1645048158:0;nvim ft_putstr.c
+: 1645048172:0;vim ft_putnbr.c
+: 1645048234:0;rm -r ex05
+: 1645048477:0;cd Dev/42_lists/c04
+: 1645048527:0;./maikn
+: 1645049221:0;which yarn
+: 1645049306:0;sudo pacman -S ripgrep
+: 1645049314:0;sudo apt install ripgrep
+: 1645049324:0;cargo install fd
+: 1645049343:0;fd ft_str
+: 1645049661:0;cd Dev/42_lists/c06
+: 1645049677:0;./main test34ssas
+: 1645049680:0;./main test34ssas asldfkjdasf sldkfjasdkf 
+: 1645049693:0;./main ABC ABC ABC ABC
+: 1645049695:0;./main ABC ABC ABC ABc
+: 1645049701:0;./main aBC ABC ABC ABc
+: 1645049725:0;./main ABd ABz ABT abc
+: 1645049771:0;norminette c01 
+: 1645049773:0;norminette c04
+: 1645049775:0;norminette c05
+: 1645050809:0;sudo apt install npm node
+: 1645050814:0;sudo apt install npm nodejs
+: 1645050835:0;node n
+: 1645050840:0;help node
+: 1645050842:0;node --help
+: 1645050855:0;node --help | grep install
+: 1645050860:0;man node
+: 1645050869:0;man nodejs 
+: 1645050873:0;nodejs
+: 1645050895:0;npm install -g npm
+: 1645050902:0;npm install -g yarn
+: 1645050912:0;sudo npm install -g yarn
+: 1645050930:0;bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+: 1645051245:0;dc 42_lists
+: 1645051253:0;lvim .
+: 1645051296:0;lvim 
+: 1645051481:0;nvim ft_putnbr_base.c
+: 1645051506:0;vim ft_putnbr_base.c
+: 1645051540:0;rm -r ex04
+: 1645051830:0;rm -r c04.zip
+: 1645051836:0;rm -r NetrwMessage
+: 1645051840:0;normienttte
+: 1645051848:0;nautilus
+: 1645056855:0;vim ft_atoi.c
+: 1645064728:0;fd
+: 1645064733:0;fd >
+: 1645064736:0;fd ``
+: 1645064745:0;time find
+: 1645064756:0;time fzf
+: 1645064769:0;time fd
+: 1645064778:0;man fd
+: 1645064837:0;fzf Dev/42_lists
+: 1645068244:0;rm -r ex00.c main
+: 1645068251:0;vim ft_iterative_factorial.c
+: 1645068280:0;cat ft_iterative_factorial.c
+: 1645068422:0;nvim ft_iterative_factorial.c
+: 1645068454:0;rm -r ex01.c
+: 1645068465:0;vim ft_recursive_factorial.c
+: 1645068497:0;nvim ft_recursive_factorial.c
+: 1645068514:0;norminette ft_recursive_factorial.c
+: 1645068524:0;rm -r ex02.c main
+: 1645068547:0;vim ft_iterative_power.c
+: 1645068558:0;nvim ft_iterative_power.c
+: 1645068683:0;rm -r ex03.c main
+: 1645068724:0;vim ft_recursive_power.c
+: 1645068731:0;nvim ft_recursive_power.c
+: 1645068758:0;rm -r ex04.c main
+: 1645068795:0;vim ft_fibonacci.c
+: 1645068836:0;nvim ft_fibonacci.c
+: 1645068850:0;cd ex05
+: 1645068855:0;rm -r ex05.c main 
+: 1645068866:0;vim ft_sqrt.c
+: 1645069026:0;nvim ft_sqrt.c
+: 1645069036:0;cd ../ex06
+: 1645069043:0;vim ft_is_prime.c
+: 1645070098:0;nvim ft_is_prime.c
+: 1645070488:0;cdex06
+: 1645070493:0;cd ex06
+: 1645070636:0;nvim ft_print_comb2.c
+: 1645070651:0;cd c04
+: 1645070764:0;nvim ft_atoi.c
+: 1645070779:0;cd c00/ex07
+: 1645070781:0;rm -r ft_putnbr
+: 1645070784:0;nvim ft_putnbr.c
+: 1645070878:0;rm -r Semana_0 
+: 1645070885:0;cd Semana_
+: 1645070890:0;rm -r rush01
+: 1645070922:0;rm -r C rush01 
+: 1645070929:0;cd Semana_2
+: 1645070935:0;rm -r Semana_2
+: 1645070948:0;cd Semana_1
+: 1645070950:0;cd Shell
+: 1645070965:0;mv * ../../
+: 1645070980:0;rm -r Semana_1
+: 1645070995:0;cp c* ../ecole42_rio/
+: 1645071001:0;cp -r  c* ../ecole42_rio/
+: 1645071022:0;lvim README.md
+: 1645071326:0;git commit -m "Adding projects already done on 42rio's basecamp."
+: 1645071390:0;cd c03
+: 1645071392:0;cd ex04
+: 1645071395:0;bat ft_strstr.c
+: 1645071713:0;man strcmp
+: 1645072494:0;cd Dev/42_lists
+: 1645072496:0;cd c00
+: 1645072503:0;cd c02
+: 1645072513:0;bat 
+: 1645072516:0;bat ft_str_is_alpha.c
+: 1645114457:0;cd ecole42_rio/c06
+: 1645114525:0;42make 
+: 1645114533:0;lvim ft_sort_params.c
+: 1645114608:0;;ls
+: 1645115105:0;./main aaa bbbb aaaca aaaba aaa
+: 1645115110:0;./main aaa bbbb aaaca aaaba zzz
+: 1645115116:0;./main aAlsa bbbb aaaca aaaba zzz
+: 1645115122:0;./main aAlsa bbbb aaaca aaaba zzz111
+: 1645115201:0;cat ft_sort_params.c
+: 1645118295:0;lcd
+: 1645118312:0;gcc *.c -o main
+: 1645118315:0;zzzz
+: 1645118322:0;fuck
+: 1645118832:0;le
+: 1645118867:0;cd c06
+: 1645118910:0;./main aaa
+: 1645118912:0;./main sdlfkjasdflkasjfasklfasjf
+: 1645118929:0;rm -r a.out
+: 1645118939:0;cat ft_print_params.c 
+: 1645118988:0;bat ft_print_params.c
+: 1645118995:0;nvim ft_print_params.c
+: 1645119009:0;nvim ft_rev_params.c
+: 1645119021:0;nvim ft_sort_params.c
+: 1645119066:0;cd c05
+: 1645128407:0;man tail
+: 1645134622:0;cd c01
+: 1645134625:0;cd ex07
+: 1645134627:0;vim ft_rev_int_tab.c
+: 1645134632:0;nvim ft_rev_int_tab.c
+: 1645137644:0;nvim ft_print_program_name.c
+: 1645142375:0;git add README.md 
+: 1645142383:0;git commit -m "Changing README typo."
+: 1645143153:0;mkdir c07
+: 1645145432:0;git clone https://github.com/LohanGuedes/rust_dice_roller/blob/main/src/main.rs
+: 1645145452:0;git clone git@github.com:LohanGuedes/rust_dice_roller.git
+: 1645145457:0;cd rust_dice_roller
+: 1645145460:0;cargo build
+: 1645145483:0;cd src
+: 1645145545:0;cargo run
+: 1645145563:0;nvim src/main.rs src/main.rs 
+: 1645145623:0;git clone https://github.com/LohanGuedes/python-dice-roller
+: 1645145631:0;python main.py
+: 1645145636:0;sudo apt install pyhton
+: 1645145647:0;sudo apt install python 
+: 1645145650:0;sudo apt install python3
+: 1645145655:0;python main.py 
+: 1645145767:0;cat mylog.txt
+: 1645145940:0;gotop
+: 1645145961:0;bat main.py
+: 1645146012:0;cd python-dice-roller
+: 1645146020:0;python3 main.py 
+: 1645146106:0;vim main.py
+: 1645146191:0;mkdir ex0{0..3}
+: 1645146243:0;mkdir ex04 ex05
+: 1645146253:0;touch ft_strup.c
+: 1645148804:0;wget https://cdn.discordapp.com/attachments/937389346162630737/944047122930602004/gb.cfg
+: 1645148806:0;exiot
+: 1645149247:0;sudo apt install discord
+: 1645149349:0;kill 62346 62349
+: 1645149491:0;kill 62349 67809 67812 67813
+: 1645155753:0;touch ft_range.c
+: 1645157091:0;touch ft_ultimate_range.c
+: 1645161069:0;uname -a | awk '{printf "#Architeture: %s\n", $0}' >> /home/monitoring.tmp\
+awk 'BEGIN{c=0}/physical id/{c++} END{printf "#CPU physical : %d\n", c}' /proc/cpuinfo >> /home/monitoring.tmp\
+awk 'BEGIN{c=0}/processor/{c++} END{printf "#vCPU : %d\n", c}' /proc/cpuinfo >> /home/monitoring.tmp\
+free -m | awk 'NR == 2 {printf "#Memory Usage: %d/%dMB (%.2f%%)\n", $3,$2,$3*100/$2}' >> /home/monitoring.tmp\
+df --total -h | awk ' /total/ {printf "#Disk Usage: %.2f/%.2fGB (%s)\n", $3, $2, $5}' >> /home/monitoring.tmp\
+top -bn1 | awk '/load/ {printf "#CPU Load: %.1f%%\n", $11*100}' >> /home/monitoring.tmp\
+who -b | awk '{printf "#Last boot: %s %s\n", $3, $4}' >> /home/monitoring.tmp\
+blkid | awk 'BEGIN{lvm="no"} /dev\/mapper\//{lvm="yes"} END{printf "#LVM use: %s\n", lvm}' >> /home/monitoring.tmp\
+ss -s | awk '/TCP:/{printf "#Connexions TCP : %d ESTABLISHED\n", $4}' >> /home/monitoring.tmp\
+who | awk 'BEGIN{c=0} {c++} END{printf "#User log: %d\n", c}' >> /home/monitoring.tmp\
+ifconfig | awk 'BEGIN{ip=0 ; mac=0} {if ($1=="inet" || $1=="ether"){if ($1=="inet" && ip==0){ip=$2}\\
+else if (mac==0){mac=$2}}} END{printf "#Network: IP %s (%s)\n", ip, mac}' >> /home/monitoring.tmp\
+awk 'BEGING{c=0} /COMMAND=/{c++} END{printf "#Sudo: %d cmd\n", c}' /var/log/sudo/sudo.log >> /home/monitoring.tmp\
+wall /home/monitoring.tmp\
+rm -f /home/monitoring.tmp
+: 1645161083:0;sudo uname -a | awk '{printf "#Architeture: %s\n", $0}' >> /home/monitoring.tmp\
+awk 'BEGIN{c=0}/physical id/{c++} END{printf "#CPU physical : %d\n", c}' /proc/cpuinfo >> /home/monitoring.tmp\
+awk 'BEGIN{c=0}/processor/{c++} END{printf "#vCPU : %d\n", c}' /proc/cpuinfo >> /home/monitoring.tmp\
+free -m | awk 'NR == 2 {printf "#Memory Usage: %d/%dMB (%.2f%%)\n", $3,$2,$3*100/$2}' >> /home/monitoring.tmp\
+df --total -h | awk ' /total/ {printf "#Disk Usage: %.2f/%.2fGB (%s)\n", $3, $2, $5}' >> /home/monitoring.tmp\
+top -bn1 | awk '/load/ {printf "#CPU Load: %.1f%%\n", $11*100}' >> /home/monitoring.tmp\
+who -b | awk '{printf "#Last boot: %s %s\n", $3, $4}' >> /home/monitoring.tmp\
+blkid | awk 'BEGIN{lvm="no"} /dev\/mapper\//{lvm="yes"} END{printf "#LVM use: %s\n", lvm}' >> /home/monitoring.tmp\
+ss -s | awk '/TCP:/{printf "#Connexions TCP : %d ESTABLISHED\n", $4}' >> /home/monitoring.tmp\
+who | awk 'BEGIN{c=0} {c++} END{printf "#User log: %d\n", c}' >> /home/monitoring.tmp\
+ifconfig | awk 'BEGIN{ip=0 ; mac=0} {if ($1=="inet" || $1=="ether"){if ($1=="inet" && ip==0){ip=$2}\\
+else if (mac==0){mac=$2}}} END{printf "#Network: IP %s (%s)\n", ip, mac}' >> /home/monitoring.tmp\
+awk 'BEGING{c=0} /COMMAND=/{c++} END{printf "#Sudo: %d cmd\n", c}' /var/log/sudo/sudo.log >> /home/monitoring.tmp\
+wall /home/monitoring.tmp\
+rm -f /home/monitoring.tmp
+: 1645211955:0;git commit -m 'ex02 - ft_ultimate_range'
+: 1645217611:0;42make
+: 1645217612:0;./main
+: 1645217660:0;rm -r main
+: 1645217682:0;git commit -m 'Finished ex02. sending c07 to evaluation'
+: 1645218566:0;touch ft_strjoin.c
+: 1645218950:0;git commit -m "Starting ex03 - c07 but I'll not send it." 
+: 1645219080:0;cd 42_lists/q
+: 1645219086:0;cd ecole42_rio/c07
+: 1645219091:0;rm -r */main
+: 1645219163:0;nvim ft_strup.c
+: 1645219194:0;vim ft_range.c
+: 1645219238:0;normientte
+: 1645219245:0;cd ex03
+: 1645219255:0;cd c07
+: 1645219272:0;vim ft_strup.c
+: 1645219283:0;cd ex01
+: 1645219285:0;nvim ft_range.c
+: 1645219292:0;cd ex02
+: 1645219294:0;norminette
+: 1645219297:0;vim ft_ultimate_range.c
+: 1645220314:0;cd ecole42_rio/
+: 1645220363:0;git commit -m "finished readme"
+: 1645224112:0;cd Rush00-Ecole42
+: 1645224119:0;mkdir rush00
+: 1645224130:0;mv -r * rush00
+: 1645224193:0;cp * rush00 -r 
+: 1645224238:0;cp -r * rush00 
+: 1645224250:0;cp -r Algorithm_rush02.dia ex00  rush00 
+: 1645224261:0;mv rush00 ../ecole42_rio
+: 1645224267:0;cd ecole42_rio
+: 1645224274:0;git add -A rush00
+: 1645224302:0;cd rush00
+: 1645224321:0;rm -r rush00
+: 1645224323:0;ls -A
+: 1645224325:0;cd ex00
+: 1645224345:0;git merge
+: 1645224355:0;git add -A 
+: 1645224358:0;git commit -m "adding rush00"
+: 1645224360:0;git pull 
+: 1645224364:0;git push 
+: 1645230384:0;nvim woeusb-5.2.4.bash
+: 1645230425:0;mv woeusb-5.2.4.bash ../Documents
+: 1645230431:0;cd ../Documents
+: 1645230454:0;fdisks
+: 1645230493:0;fdisk -A
+: 1645230494:0;fdisk -a
+: 1645230526:0;ldisk 
+: 1645230528:0;ldisk -l
+: 1645230594:0;chmod +x woeusb-5.2.4.bash
+: 1645230622:0;sudo ./woeusb-5.2.4.bash --device ~/Downloads/Win10_21H2_English_x64.iso /dev/sdc
+: 1645230634:0;sudo apt install wimlib-imagex
+: 1645230705:0;sudo apt install ventoy 
+: 1645230778:0;wget https://github.com/ventoy/Ventoy/releases
+: 1645230784:0;rm -r releases
+: 1645230814:0;mv ventoy-1.0.69-linux.tar.gz ../Documents
+: 1645230858:0;tar -xf ventoy-1.0.69-linux.tar.gz 
+: 1645230861:0;cd ventoy-1.0.69
+: 1645230981:0;umount /dev/sdc
+: 1645231028:0;sudo umount /dev/sdc
+: 1645231071:0;sudo umount /dev/sdc 
+: 1645231090:0;sudo sh Ventoy2Disk.sh -i /dev/sdc1
+: 1645231095:0;sudo sh Ventoy2Disk.sh -i /dev/sdc
+: 1645253163:0;exit 
+: 1645253787:0;git clone https://github.com/yilozt/mutter-rounded\
+cd ./mutter-rounded/ubuntu_21.10\
+./package.sh\
+sudo dpkg -i *.deb
+: 1645254420:0;nutter
+: 1645254449:0;mutter-rounded
+: 1645254451:0;_mutt
+: 1645254462:0;_mutt --help
+: 1645254470:0;man _mutt
+: 1645254482:0;cd ubuntu_21.10
+: 1645254490:0;cd workspace/mutter-40.5
+: 1645254497:0;vim README.md
+: 1645254519:0;lvim
+: 1645254536:0;rm -r mutter-rounded
+: 1645254762:0;gsettings set org.gnome.mutter round-corners-radius 10
+: 1645254903:0;$ gsettings get org.gnome.mutter round-corners-radius \
+14\
+$ gsettings set org.gnome.mutter round-corners-radius 8
+: 1645254913:0;gsettings get org.gnome.mutter round-corners-radius 14;\
+gsettings set org.gnome.mutter round-corners-radius 8
+: 1645254919:0;gsettings get org.gnome.mutter round-corners-radius 14
+: 1645254931:0;gsettings set org.gnome.mutter round-corners-radius 
+: 1645254934:0;gsettings set org.gnome.mutter round-corners-radius 3
+: 1645254936:0;gsettings set org.gnome.mutter round-corners-radius 4
+: 1645255144:0;gsettings set org.gnome.mutter round-corners-radius 8
+: 1645255464:0;cat .netrwhist
+: 1645255610:0;git clone git clone https://github.com/LunarVim/Neovim-from-scratch.git ~/.config/nvim
+: 1645255616:0;git clone https://github.com/LunarVim/Neovim-from-scratch.git ~/.config/nvim
+: 1645255631:0;git checkout 01-options
+: 1645255707:0;nvim lua/user/options.lua
+: 1645255924:0;sudo apt install xsel
+: 1645255931:0;pbcopy
+: 1645255935:0;xsel
+: 1645255954:0;pip install pynvim
+: 1645255958:0;npm i -g neovim
+: 1645255981:0;sudo npm i -g neovim
+: 1645256006:0;git checkout 02-keymaps
+: 1645256562:0;lsc
+: 1645256574:0;mv user lguedes
+: 1645256578:0;cd lguedes/
+: 1645256800:0;git merge origin/03-plugins
+: 1645256825:0;ls -R
+: 1645256830:0;vim init.lua
+: 1645256847:0;cd lua/lguedes
+: 1645256853:0;w
+: 1645256894:0;git add init.lua lua/
+: 1645256897:0;git commit -m 'changing require on init.lua'
+: 1645256899:0;git checkout 03-plugins
+: 1645257037:0;ln -sf kitty-themes/gruvbox-material.conf theme.conf
+: 1645257087:0;ln -sf kitty-themes/Sonokai\ \(Andromeda\).conf theme.conf
+: 1645257110:0;ln -sf kitty-themes/DoomBox.conf theme.conf
+: 1645257119:0;cd .config/kitty
+: 1645257130:0;ln -sf kitty-themes/HorizonDark.conf theme.conf
+: 1645308193:0;sudo apt install brave-browser
+: 1645308220:0;sudo apt install apt-transport-https curl\
+\
+sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg\
+\
+echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list\
+\
+sudo apt update\
+\
+sudo apt install brave-browser
+: 1645344965:0;sudo apt update && sudo apt upgrade
+: 1645346693:0;rm -r alacritty.yml
+: 1645346696:0;wget https://gitlab.com/dwt1/dotfiles/-/raw/master/.config/alacritty/alacritty.yml
+: 1645346892:0;cd .config/alacritty
+: 1645346995:0;nvim alacritty.yml
+: 1645347086:0;/usr/bin/setxkbmap -option "caps:swapescape"
+: 1645347109:0;sudo apt install dconf-tools
+: 1645347121:0;dconf 
+: 1645347128:0;help dconf 
+: 1645347131:0;man dconf
+: 1645347362:0;rm -r ventoy-1.0.69 ventoy-1.0.69-linux.tar.gz woeusb-5.2.4.bash 
+: 1645347369:0;rm -rf ventoy-1.0.69 ventoy-1.0.69-linux.tar.gz woeusb-5.2.4.bash 
+: 1645347389:0;cd Books
+: 1645347400:0;lal
+: 1645347425:0;curl https://github.com/progit/progit2/releases/download/2.1.337/progit.pdf
+: 1645347430:0;wget https://github.com/progit/progit2/releases/download/2.1.337/progit.pdf
+: 1645347439:0;firefox progit.pdf
+: 1645347582:0;sudo apt remove brave-browser
+: 1645350565:0;sudo apt install tree
+: 1645350576:0;rg 
+: 1645350580:0;rg main
+: 1645421370:0;ld
+: 1645421371:0;lsd
+: 1645422786:0;nvim ,.
+: 1645422789:0;nvim ,
+: 1645426255:0;git rebase
+: 1645426305:0;git checkout 04-colorscheme
+: 1645427373:0;git add -A colorscheme.lua plugins.lua
+: 1645427378:0;git commit -m "a"
+: 1645427385:0;git checkout 05-completion
+: 1645427476:0;cd ../lua
+: 1645429049:0;git checkout 06-LSP
+: 1645571347:0;nvim .zshrc
+: 1645571390:0;source .zshrc
+: 1645579632:0;git clone https://github.com/NTBBloodbath/calc.py
+: 1645579634:0;cd calc.py
+: 1645579639:0;./main.py
+: 1645579642:0;python3 main.c
+: 1645579644:0;python3 main.py
+: 1645580245:0;nvim c06
+: 1645580476:0;cd lua/user/lsp
+: 1645580672:0;nvim ~/.config/nvim/init.lua
+: 1645580718:0;nvim main.py
+: 1645580892:0;cd .config/nvim/lua/user/lsp/settings
+: 1645580977:0;cd 42_lists
+: 1645580985:0;nvim c05/ex02/ft_iterative_power.c 
+: 1645581256:0;nvim handlers.lua
+: 1645581327:0;nvim lsp-installer.lua
+: 1645581344:0;nvim settings/pyright.lua
+: 1645581349:0;nvim settings
+: 1645581876:0;nvim lsp/settings/sumneko_lua.lua
+: 1645581885:0;cd user/l
+: 1645581893:0;nvim settings/jsonls.lua
+: 1645582397:0;git checkout 07
+: 1645582409:0;nvim lua
+: 1645582418:0;cd lua/user/
+: 1645582551:0;nvim telescope.lua
+: 1645582693:0;nvim user/keymaps.lua
+: 1645582721:0;git checkout 07-Telescope
+: 1645582800:0;nvim user
+: 1645582869:0;nvim user/options.lua
+: 1645583357:0;sudo apt install gotop
+: 1645583401:0;crates install 
+: 1645583402:0;crates
+: 1645583410:0;cargo install ytop
+: 1645583512:0;ytop
+: 1645584184:0;downloads
+: 1645584284:0;nvim haskell_notes.norg
+: 1645586095:0;git checkout 08
+: 1645586097:0;git checkout 08-treesitter
+: 1645588272:0;nvim lua/user/plugins.lua
+: 1645588725:0;git checkout 09-autopairs
+: 1645589084:0;git checkout 10-comments
+: 1645589383:0;git checkout 11-gitsigns
+: 1645589655:0;git checkout 12-gitsigns
+: 1645589661:0;git checkout 12-nvimtree
+: 1645590138:0;git checkout 13
+: 1645590145:0;git checkout 13-bufferline.lua
+: 1645591950:0;cd user/
+: 1645591950:0;lsl
+: 1645591952:0;kls
+: 1645591960:0;nvim comment.lua
+: 1645591981:0;cd .
+: 1645591993:0;nvim packer_compiled.lua
+: 1645592003:0;cd plugin
+: 1645592012:0;ncim lsp
+: 1645592015:0;cd lsp
+: 1645592253:0;sudo apt install clangd
+: 1645592264:0;ncim null-ls.lua
+: 1645592344:0;clangd
+: 1645592375:0;sudo apt install clang-format
+: 1645592454:0;sudo apt install britanny
+: 1645592459:0;sudo apt install brittan\y
+: 1645592461:0;sudo apt install brittany
+: 1645592497:0;stack install brittany # --resolver lts-16.31
+: 1645592510:0;sudo apt install stack
+: 1645592533:0;nvim null-ls.lua ''
+: 1645592560:0;git revert 
+: 1645592572:0;cd lsp/s
+: 1645592573:0;cd lsp/
+: 1645592583:0;git commit -m "Added <_>gc <_>g"
+: 1645592587:0;git pll
+: 1645592597:0;git checkout 14-null-ls
+: 1645592602:0;nvim null-ls.lua
+: 1645592916:0;cd. .
+: 1645593075:0;nvim lua/user/keymaps.lua
+: 1645593193:0;nvim .
+: 1645593223:0;cd user/lsp
+: 1645593455:0;cleat
+: 1645593460:0;clear
+: 1645593797:0;nvim keymaps.lua
+: 1645593935:0;git checkout 16-toggleterm
+: 1645594124:0;nvim cmp.lua
+: 1645594478:0;nvim toggleterm.lua
+: 1645594517:0;rm -r *.git
+: 1645594525:0;rm -rf *.git
+: 1645594535:0;:q
+: 1645594565:0;rm -r .gitignore
+: 1645594572:0;rm -r LICENSE
+: 1645594853:0;echo "# nvim_personal" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin git@github.com:LohanGuedes/nvim_personal.git\
+git push -u origin main
+: 1645594873:0;touch .gitignore 
+: 1645594912:0;nvim .gitignore
+: 1645594941:0;git commit -m "Finished config, with some custom binds."
+: 1645595210:0;touch install.sh
+: 1645595339:0;chmod +x install.sh 
+: 1645595505:0;man bash
+: 1645595532:0;nvim bash -c
+: 1645595538:0;man -c bash
+: 1645595548:0;man bash -c
+: 1645596082:0;git commit -m "TODO: Finish the install.sh"
+: 1645596119:0;rm -r README.md
+: 1645596122:0;git pull
+: 1645596150:0;git clone https://github.com/LohanGuedes/nvim_personal
+: 1645596156:0;mv nvim_personal nvim
+: 1645596190:0;mv nvim_personal/* ..
+: 1645596207:0;git clone https://github.com/LohanGuedes/nvim_personal nvim
+: 1645598172:0;sudo apt install ghc
+: 1645598455:0;cabal
+: 1645598501:0;rm -rf python-dice-roller rush01_4fun rust_dice_roller Rush00-Ecole42 42_lists 
+: 1645598505:0;rm -r ecole42_rio/
+: 1645598511:0;rm -rf ecole42_rio/
+: 1645598521:0;mkdir 42
+: 1645598538:0;rm -r Learning-Haskell
+: 1645598543:0;mkdir Rust
+: 1645598544:0;mkdir C
+: 1645598557:0;mkdir Lisp
+: 1645598558:0;mkdir lua
+: 1645598560:0;mkdir python
+: 1645598568:0;mkdir Webdev
+: 1645598575:0;cd  Haskell
+: 1645598583:0;mkdir Learning-Haskell
+: 1645598584:0;cd Learning-Haskell
+: 1645598684:0;ghci 
+: 1645599300:0;nvim doubleMe.hs
+: 1645599351:0;mv doubleMe.hs baby.hs
+: 1645599503:0;nvim baby.hs
+: 1645662704:0;cd .config/nvim
+: 1645663026:0;nvim autopairs.lua
+: 1645663133:0;lls
+: 1645663173:0;git commit -m 'Added gruvbox to the default config'
+: 1645663190:0;git commit -m 'Also adding the new way to set a colorsheme'
+: 1645663245:0;rm -r nvim
+: 1645663264:0;rm -r install.sh init.lua
+: 1645663268:0;git clone git@github.com:LohanGuedes/nvim_personal.git
+: 1645663276:0;rm -r nvim_personal
+: 1645663279:0;rm -rf nvim_personal
+: 1645663292:0;cd lua
+: 1645663296:0;cd user
+: 1645663299:0;nvim options.lua
+: 1645663331:0;nvim plugins.lua
+: 1645663368:0;nvim 
+: 1645663379:0;nvim colorscheme.lua
+: 1645663437:0;git commit -m 'Adding new way to set colorsheme, adding gruvbox'
+: 1645664237:0;git add -Aa
+: 1645664257:0;git commit -m 'The script should work now.'
+: 1645664323:0;chmod +x install.sh
+: 1645664328:0;nvim
+: 1645664357:0;rm -r install.sh
+: 1645664361:0;cd  lua/user
+: 1645664378:0;wget https://raw.githubusercontent.com/LohanGuedes/nvim_personal/main/install.sh
+: 1645664385:0;nvim init.lua
+: 1645664460:0;git commit -m 'Adding install commands on README'
+: 1645664478:0;mv install.sh ~/Dev/Bash
+: 1645664480:0;lx
+: 1645664504:0;cd nvim
+: 1645664507:0;nvim install.sh
+: 1645664513:0;nvim README.md
+: 1645664584:0;git commit -m 'Changing readme'
+: 1645664755:0;rm -rf install.sh
+: 1645664760:0;wget https://raw.githubusercontent.com/LohanGuedes/nvim_personal/main/install.sh \
+chmod +x install.sh \
+./install.sh\
+nvim
+: 1645664773:0;rm -rf nvim
+: 1645664775:0;git clone git@github.com:LohanGuedes/nvim_personal.git nvim
+: 1649228562:0;sudo dnf install lsd
+: 1649228583:0;kitty
+: 1649228790:0;lls-a
+: 1649228904:0;sudo dnf install flameshot 
+: 1649228929:0;emacs --version
+: 1649229299:0;awesome
+: 1649229304:0;sudo dnf install awesome
+: 1649229423:0;sudo dnf install brave-browser
+: 1649229434:0;sudo dnf install dnf-plugins-core\
+\
+sudo dnf config-manager --add-repo https://brave-browser-rpm-release.s3.brave.com/x86_64/\
+\
+sudo rpm --import https://brave-browser-rpm-release.s3.brave.com/brave-core.asc\
+\
+sudo dnf install brave-browser
+: 1649229594:0;sudo dnf install compton
+: 1649229702:0;rm -rf collision
+: 1649229804:0;rm -r rc.lua
+: 1649229805:0;cp /etc/xdg/awesome/rc.lua .
+: 1649230143:0;sudo dnf install dmenu
+: 1649230299:0;compton 
+: 1649230315:0;sudo dnf install nitrogen
+: 1649230329:0;discord
+: 1649230403:0;sudo dnf install xrandr
+: 1649230416:0;sudo dnf innstall picom
+: 1649230430:0;sudo dnf remove compton
+: 1649230437:0;sudo dnf install picom
+: 1649230506:0;sudo dnf install arandr
+: 1649230518:0;arandr
+: 1649230653:0;nvim display.sh
+: 1649230770:0;rm -r display.sh
+: 1649230782:0;sudo dnf install neofetch
+: 1649231028:0;nvim rc.lua
+: 1649231153:0;cd ~/Downloads
+: 1649231158:0;git checkout HEAD
+: 1649231169:0;git checkout origin/main
+: 1649231261:0;rm -r dotfiles rpmfusion-free-release-branched.noarch.rpm rpmfusion-nonfree-release-branched.noarch.rpm
+: 1649231310:0;git clone https://github.com/LohanGuedes/dotfiles.git
+: 1649231314:0;cd  dotfiles
+: 1649231315:0;ls- a
+: 1649231331:0;git checkout 41fe2b0
+: 1649231343:0;git checkout 173597c
+: 1649231348:0;cd doom.d
+: 1649231360:0;mv doom.d ~/
+: 1649231375:0;mv doom.d ~/.doom.d
+: 1649231824:0;nvim init.el
+: 1649231833:0;nvim packages.el
+: 1649231845:0;rm -r config.el init.el packages.el
+: 1649231852:0;mv doom.d/* .
+: 1649231855:0;rm -r doom.d
+: 1649231974:0;ls0a
+: 1649232122:0;ced 
+: 1649232130:0;git clone https://github.com/ryanoasis/nerd-fonts.git
+: 1649258412:0;./install.sh
+: 1649258495:0;fc-cache 
+: 1649258640:0;cd nerd-fonts
+: 1649258649:0;./install.sh 
+: 1649258749:0;cd ~/.doom.d
+: 1649258755:0;nvim config.el
+: 1649262201:0;sudo dnf install cmake
+: 1649264424:0;nvim kitty.conf
+: 1649264469:0;exa
+: 1649264498:0;sudo dnf install libtool
+: 1649265800:0;mkdir MyOrg
+: 1649268610:0;sudo dnf install sqlite
+: 1649268628:0;~/.emacs.d/bin/doom sync
+: 1649268657:0;mkdir ~/MyOrg/roam
+: 1649269487:0;sudo dnf install textlive-core textlive-bin textlive-science gnuplot
+: 1649286064:0;mkdir Dev
+: 1649286066:0;cd  Ev
+: 1649286068:0;de
+: 1649286070:0;dev
+: 1649286076:0;git init.
+: 1649286082:0;touch main.c
+: 1649286140:0;git add main.c
+: 1649286197:0;git config --global user.email "lguedes@student.42.rio"
+: 1649286204:0;git config --global user.name "lguedes"
+: 1649286208:0;git commit -m 'Adding main file'
+: 1649286230:0;git checkout -b feature/sumNums
+: 1649286236:0;nvim main.c
+: 1649286404:0;git checkout main
+: 1649286407:0;git checkout master
+: 1649286483:0;git merge feature/sumNums
+: 1649286485:0;cat main.c
+: 1649286499:0;git diff main.c
+: 1649286511:0;git blame ORIG_HEAD
+: 1649286517:0;git blame HEAD
+: 1649286524:0;git blame main.c
+: 1649333348:0;emacs -nw
+: 1649333538:0;pstree
+: 1649334807:0;vim
+: 1649334817:0;sudo dnf install vim
+: 1649335465:0;ls -
+: 1649335486:0;fc-cache
+: 1649335505:0;[200~git remote add origin git@github.com:LohanGuedes/doom-config.git]
+: 1649335505:0;git branch -M main
+: 1649335667:0;gpg
+: 1649335673:0;gpg --armor --export 3AA5C34371567BD2
+: 1649335695:0;gpg --full-generate-key
+: 1649335856:0;gpg --list-secret-keys --keyid-format=long
+: 1649335903:0;gpg --armor --export 4CBD43741B6F3C1A
+: 1649336008:0;ls 0a
+: 1649336032:0;git init . 
+: 1649336050:0;s
+: 1649336128:0;ssh-keygen -t ed25519 -C "lguedes@student.42.rio"
+: 1649336152:0;eval "$(ssh-agent -s)"
+: 1649336156:0;ssh-add ~/.ssh/id_ed25519
+: 1649336181:0;cat ~/.ssh/id_ed25519.pub
+: 1649336204:0;ls a
+: 1649336210:0;rm -rf .git
+: 1649336270:0;git remote add origin git@github.com:LohanGuedes/doom-config.git\
+git branch -M main\
+git push -u origin main
+: 1649336344:0;git commit -m 'First commit. base configuration Apr 07 2022'
+: 1649336352:0;git push --set-upstream origin main 
+: 1649336370:0;touch README.md
+: 1649343642:0;mkdir agenda
+: 1649343646:0;cd agenda
+: 1649343688:0;touch agenda.org
+: 1649344812:0;git commit -m 'Changing default directories for org*'
+: 1649344845:0;rm -r agenda roam testing/test.org
+: 1649344848:0;rm -r testing
+: 1649344850:0;mkdir Roam
+: 1649344854:0;mkdir Agenda
+: 1649344860:0;rm -r .projectile
+: 1649344863:0;git init .
+: 1649344879:0;git commit -m 'First commit'
+: 1649344929:0;git status
+: 1649353715:0;python --version
+: 1649361793:0;git commit -m "Adding Some todos for this week"
+: 1649362448:0;top
+: 1649362462:0;sudo dnf install htop
+: 1649366890:11;os-prober 
+: 1649367014:0;lsblk
+: 1649367025:0;fdisk
+: 1649367029:0;fdisk -l
+: 1649367032:0;sudo fdisk -l
+: 1649367081:0;sudo grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg
+: 1649367105:0;sudo os-prober
+: 1649448041:0;cd .screenlayout
+: 1649448049:0;./display.sh
+: 1649448105:0;ls -0l
+: 1649448295:0;la
+: 1649448309:0;notify 
+: 1649448361:0;emacs -nw -Q
+: 1649450212:0;sudo dnf install thunder-bird
+: 1649636742:0;reboor
+: 1649709162:0;shutdown
+: 1649791584:0;~/.screenlayout/display.sh
+: 1649791595:0;wlp
+: 1649791675:0;sudo dnf remove firefox
+: 1649796773:0;sudo dnf install zoom
+: 1649796796:0;ls -s
+: 1649796870:0;sl
+: 1649796914:0;sudo dnf localinstall zoom_x86_64.rpm 
+: 1649810403:0;killall emacs
+: 1649810455:0;emacs
+: 1649810631:0;git commit -m
+: 1649810635:0;git commit -m "Idnk, something"
+: 1649813300:0;sudo dnf install pavucontrol
+: 1649817065:0;find $HOME -type f | dmenu -i -l 15
+: 1649817276:0;cd DEv
+: 1649817282:0;mkdir Bash
+: 1649817296:0;mkdir UltraShare
+: 1649817310:0;touch share
+: 1649817418:0;chmod +x share
+: 1649817849:0;sudo dnf install xcpli
+: 1649817855:0;sudo dnf install xclip
+: 1649817961:0;ls -l-a
+: 1649817966:0;./share 
+: 1649818000:0;cat share | xclip c
+: 1649818347:0;cd Dev/Bash
+: 1649818495:0;nvim share
+: 1649818536:0;cp share /bin
+: 1649820116:0;notify-send
+: 1649820123:0;notify-send "hey"
+: 1649820136:0;notify-send "It's fucking working"
+: 1649820154:0;notify-send "\n\n\nIt's fucking working\n\n\n"
+: 1649820161:0;notify-send "\n\n\nIt's fucking working"
+: 1649825736:0;cd daily
+: 1649871323:0;sudo dnf install stow
+: 1649871435:0;-s la
+: 1649871454:0;ls ~/
+: 1649871457:0;ls -la ~/
+: 1650048613:1;ls =a
+: 1650087208:0;.screenlayout/display.sh
+: 1650087249:0;ssh lguedes@fedora
+: 1650146392:0;cd .config/
+: 1650146395:0;cd awesome
+: 1650146401:0;lvim rc.lua
+: 1650146402:0;vi rc.lua
+: 1650173130:0;sudo dnf install clang
+: 1650173501:0;magit
+: 1650173507:0;ls -al
+: 1650173534:0;sudo dnf install g++
+: 1650173731:0;mkdir Java C Ecole42
+: 1650173741:0;mkdir Haskell
+: 1650173748:0;ls -ls
+: 1650173751:0;ls -l *
+: 1650173757:0;cd Lisps
+: 1650173762:0;mkdir Commom-Lisp
+: 1650173766:0;mkdir Clojure
+: 1650173776:0;mkdir Cpp
+: 1650173805:0;cd Bash
+: 1650173807:0;cd UltraShare
+: 1650173809:0;./share
+: 1650174041:0;sudo dnf search openjdk
+: 1650174120:0;java --vserion
+: 1650174127:0;java --version
+: 1650174181:0;java
+: 1650174225:0;sudo dnf search JRE
+: 1650174242:0;sudo dnf install jre-openjdk
+: 1650174258:0;javac
+: 1650174282:0;sudo dnf search javac
+: 1650174342:0;sudo dnf install java-11-openjdk.x86_64
+: 1650174353:0;sudo dnf install java-11-openjdk-devel.x86_64
+: 1650174370:0;javac 
+: 1650174548:0;curl -sSL https://get.haskellstack.org/ | sh
+: 1650174673:0;ghc
+: 1650174686:0;sudo dnf install gch
+: 1650174692:0;sudo dnf install ghc
+: 1650174811:0;cabal-install
+: 1650174832:0;curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
+: 1650175133:0;ghci
+: 1650175156:0;ghcup tui
+: 1650175166:0;cabal install
+: 1650175169:0;cabal-install 
+: 1650176479:0;man fc
+: 1650176799:0;fc-list
+: 1650176922:0;cd Pictures
+: 1650176932:0;mkdir WallPappers
+: 1650176933:0;cd WallPappers
+: 1650176938:0;git clone https://gitlab.com/dwt1/wallpapers.git
+: 1650183300:0;source ~/.zshrc
+: 1650187627:0;dnf search mu
+: 1650187646:0;sudo dnf search mu
+: 1650187663:0;sudo dnf search mu | grep email client
+: 1650187671:0;sudo dnf search mu | grep "email "
+: 1650187679:0;sudo dnf search mu | grep "email client"
+: 1650187684:0;sudo dnf search mu | grep "client"
+: 1650188902:0;sudo dnf search maildir-util
+: 1650188941:0;u
+: 1650188971:0;sudo dnf search mbsync
+: 1650189517:0;mu4e
+: 1650190482:0;ls -l
+: 1650191334:0;cp share newShare
+: 1650192080:0;fzf ~/
+: 1650192091:0;fzf ../../
+: 1650192095:0;fzf --help
+: 1650192195:0;fzf .
+: 1650192198:0;fzf 
+: 1650192218:0;fzf MyOrg
+: 1650192223:0;man fzf 
+: 1650192295:0;fzf --reverse
+: 1650192362:0;fzf -q ~/
+: 1650192369:0;fzf -q "~/"
+: 1650192375:0;fzf -q 
+: 1650192426:0;rm -rf nerd-fonts
+: 1650192432:0;fzf -q $HOME
+: 1650192442:0;fzf --reverse -q $HOME
+: 1650192515:0;cd Dev/Bash/UltraShare
+: 1650192517:0;fzf
+: 1650192544:0;share\
+
+: 1650192577:0;Downloads/[GNU manual] Robert J. Chassell - An Introduction To Programming In Emacs Lisp (2009) - libgen.li.pdf\
+
+: 1650192579:0;cd Downloads/[GNU manual] Robert J. Chassell - An Introduction To Programming In Emacs Lisp (2009) - libgen.li.pdf\
+
+: 1650192587:0;fzf | xclip -selection c
+: 1650192594:0;nvim Downloads/en.subject.pdf\
+
+: 1650192608:0;zathura 
+: 1650192707:0;./newShare
+: 1650192766:0;fzf --border[=right]
+: 1650192771:0;man fzf
+: 1650192786:0;fzf --border[right]
+: 1650192790:0;fzf --border=right
+: 1650192796:0;fzf --border=right --reverse
+: 1650192808:0;nvim newShare
+: 1650194466:0;rm -r 20220417082012-cool_project.org
+: 1650195726:0;git commit -m "Changing the options on my agenda file."
+: 1650368325:0;curl https://news.ycombinator.com/
+: 1650368332:0;lynx https://news.ycombinator.com/
+: 1650375571:0;cd MyOrg
+: 1650384288:0;tree
+: 1650384292:0;git add .
+: 1650384321:0;git commit -m "Changing agenda folder to /Roam and deleting files"
+: 1650699247:0;naofetch
+: 1650704150:0;rm -r .mbsyncrc
+: 1650704294:0;mbsync -V gmail
+: 1650704401:0;dnf install maildir-utils
+: 1650704403:0;sudo dnf install maildir-utils
+: 1650704423:0;sudo dnf install mbsync isync 
+: 1650704428:0;sudo dnf install mbsync
+: 1650704432:0;mbsync
+: 1650704438:0;isync
+: 1650704590:0;mbsync --help
+: 1650704600:0;mbsync --all
+: 1650704613:0;mbsync -renew
+: 1650704622:0;mbsync -N
+: 1650704646:0;nvim .mbsyncrc
+: 1650705444:0;zsh
+: 1650705465:0;sudo dnf install isync
+: 1650705472:0;sudo dnf install msmtp
+: 1650705636:0;rm -rf ~/.mu
+: 1650705646:0;ls .w3m
+: 1650705649:0;ls -la .w3m
+: 1650705674:0;doom doctor
+: 1650705688:0;sudo dnf install pandoc 
+: 1650705725:0;sudo dnf install fd
+: 1650705729:0;sudo dnf install find
+: 1650784839:0;muy
+: 1650784842:0;mu
+: 1650784851:0;mu init
+: 1650784856:0;mu index
+: 1650784865:0;cd .cache
+: 1650784869:0;cd mu=
+: 1650784870:0;cd mu
+: 1650784887:0;cd xapian
+: 1650785251:0;sudo dnf install mu4e
+: 1650786226:0;~=/~ll
+: 1650786232:0;cat flintlock
+: 1650789114:0;sudo dnf search telegram
+: 1650789126:0;sudo dnf install telegram
+: 1650789265:0;touch .projectile
+: 1650789571:0;git commit -m "Changind week-schedule for week17 2022."
+: 1650804642:0;cd dev
+: 1650804649:0;cd Bash/UltraShare
+: 1650804658:0;cat share | xclip -selection c
+: 1650804701:0;curl 0x0.st
+: 1650804843:0;mkdir ~/Documents/Ecole42/
+: 1650804845:0;mkdir ~/Documents/Ecole42/Basecamp
+: 1650804848:0;mv *Basecamp* ~/Documents/ecole42/Basecamp
+: 1650804903:0;mv *haskell ../Documents/Resources/Haskell
+: 1650804915:0;mv *haskell.pdf ../Documents/Resources/Haskell
+: 1650804934:0;mv *.pdf ../Documents/
+: 1650804977:0;mv _intra.zip ~/Documents/ecole42/Basecamp
+: 1650805004:0;mv _intra.zip ../Documents/ecole42/Basecamp/
+: 1650805017:0;mv _intra.zip ../Documents/Ecole42/Basecamp/
+: 1650805058:0;rm -r en.subject.pdf
+: 1650805068:0;ls =-a
+: 1650805076:0;mkdir Books
+: 1650805086:0;mkdir Books/C Books/Lisp
+: 1650805104:0;mkdir Resources
+: 1650805174:0;mkdir Resources/Haskell
+: 1650805176:0;mv 20210317232057-haskell.pdf Resources/Haskell/haskell-resources.pdf
+: 1650805182:0;mkdir Personal
+: 1650805192:0;mv Please_DocuSign_Lohan_Cravo_Guedes.pdf Personal
+: 1650805195:0;cd Personal
+: 1650805210:0;mkdir ecole42_Docments
+: 1650805242:0;mv Please_DocuSign_Lohan_Cravo_Guedes.pdf finantial-AID-Apr-2022.pdf
+: 1650805247:0;mv finantial-AID-Apr-2022.pdf ecole42_Docments
+: 1650805262:0;rm -rf An\ Introduction\ To\ Programming\ In\ Emacs\ Lisp\ \(Robert\ J.\ Chassell\)\ \(z-lib.org\).pdf
+: 1650805293:0;mv \[GNU\ manual\]\ Robert\ J.\ Chassell\ -\ An\ Introduction\ To\ Programming\ In\ Emacs\ Lisp\ \(2009\)\ -\ libgen.li.pdf An-Introduction-To-Programming-In-Emacs-Lisp.pdf
+: 1650805303:0;mv An-Introduction-To-Programming-In-Emacs-Lisp.pdf Books/Lisp
+: 1650805614:0;l
+: 1650805625:0;unzip _intra.zip
+: 1650805633:0;rm -r _intra.zip
+: 1650805647:0;cd 03
+: 1650805649:0;cd 03\ -\ Basecamp\ C\ 00
+: 1650805660:0;brave-browser --help
+: 1650805663:0;man brave-browser 
+: 1650805689:0;brave-browser --new-window videos.url
+: 1650805788:0;cat videos.url
+: 1650806129:0;share
+: 1650806130:0;l;s
+: 1650806154:0;~/Dev/Bash/UltraShare/share
+: 1650806352:0;zip * ecole42-Basecamp
+: 1650806356:0;ls-a
+: 1650806361:0;mkdir test
+: 1650806368:0;mb 03\ -\ Basecamp\ C\ 00.zip test
+: 1650806373:0;mv 03\ -\ Basecamp\ C\ 00.zip test
+: 1650806379:0;unzip 03\ -\ Basecamp\ C\ 00.zip
+: 1650806418:0;mv 03\ -\ Basecamp\ C\ 00.zip All-Basecamp.zip
+: 1650806426:0;rm -r 0*
+: 1650806429:0;rm -r 1*
+: 1650806434:0;sls
+: 1650806454:0;mv test * .
+: 1650806461:0;cd test
+: 1650806465:0;mv All-Basecamp.zip ..
+: 1650806474:0;cd Documents
+: 1650806479:0;cd Basecamp
+: 1650806481:0;rm -r test
+: 1650806495:0;~/Dev/Bash/UltraShare/share All-Basecamp.zip
+: 1650806740:0;ls -la *
+: 1650806761:0;ls -la * | sifudericahrd.txt
+: 1650806766:0;ls -la * > sifudericahrd.txt
+: 1650806768:0;ls -a
+: 1650806785:0;cat sifudericahrd.txt| xclip -selection c
+: 1654137061:0;cd kitty
+: 1654137066:0;vi kitty.conf 
+: 1654137296:0;sudo dnf install pulse-audio
+: 1654137303:0;sudo dnf install pulseaudio
+: 1654137492:0;cd .doom.d
+: 1654137510:0;git commit -m "Changing Configs"
+: 1654137992:0;sudo dnf update
+: 1654212482:0;nitrogen --restore
+: 1654212488:0;nitrogen
+: 1654212648:0;cd .config
+: 1654214494:0;htop
+: 1654216612:0;ll
+: 1654216833:0;ls- la
+: 1654216845:0;chsh ($which fish)
+: 1654216850:0;chsh ($which /fish)
+: 1654216858:0;chsh $(which fish)
+: 1654216862:0;chsh fish
+: 1654216868:0;which fish
+: 1654217000:0;chsh -s $(which fish)
+: 1654226951:0;10
+: 1654231582:0;doom sync
+: 1654389604:0;ls 
+: 1654389625:0;mkdir Gnl
+: 1654389635:0;rm -r Gnl
+: 1654389736:0;echo "# 42Cursus-GNL" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin git@github.com:LohanGuedes/42Cursus-GNL.git\
+git push -u origin main
+: 1654389742:0;ls -kla
+: 1654390087:0;cd Dev
+: 1654390102:0;mv * ./Gnl
+: 1654390113:0;rm -r *.
+: 1654390119:0;rm -r .git
+: 1654390121:0;y
+: 1654390124:0;rm Gnl
+: 1654390128:0;cd  Ecole42
+: 1654390151:0;git clone git@github.com:LohanGuedes/42Cursus-GNL.git Gnl
+: 1654390176:0;cd Gnl
+: 1654392024:0;cd Roam
+: 1654579832:0;zhs
+: 1654583653:0;./test
+: 1654583664:0;make test
+: 1654585007:0;git add -A
+: 1654585020:0;git commit -m "I dont know what I'm doing, please help."
+: 1654585022:0;git push
+: 1654834059:0;cargo
+: 1654834090:0;p10k configure
+: 1654834152:0;fish
+: 1654835657:0;cargo --version
+: 1654835665:0;cargo build --release
+: 1654835805:0;sudo dnf install gtk3-devel
+: 1654835941:0;sudo dnf install gtk-layer-shell-devel pango-devel gdk-pixbuf2-devel cairo-devel glib2-devel libgcc glibc-devel
+: 1654835958:0;rm -rf eww
+: 1654835966:0;git clone https://github.com/elkowar/eww\
+
+: 1654835969:0;cd eww
+: 1654835977:0;cargo build --release -j 4
+: 1654836386:0;cd  target
+: 1654836388:0;cd release
+: 1654836399:0;sudo mv target/release/eww /usr/bin/eww && sudo chmod +x /usr/bin/eww
+: 1654836418:0;sudo mv .//eww /usr/bin/eww && sudo chmod +x /usr/bin/eww
+: 1654836424:0;sudo mv ./eww /usr/bin/eww && sudo chmod +x /usr/bin/eww
+: 1654836429:0;eww
+: 1654836442:0;eww daemon
+: 1654836461:0;eww open 
+: 1654836462:0;eww open 1
+: 1654836487:0;sudo dnf install xdg-user-dirs git slim dunst tint2 jgmenu rofi alacritty nitrogen sxhkd lua starship fish cava gtk3 brightnessctl zsh playerctl pipewire pipewire-pulseaudio Thunar papirus-icon-theme curl jq libappindicator-gtk3 gnome-keyring light wireless-tools maim gpick mate-polkit yaru-sound-theme xdg-desktop-portal-gtk xdg-desktop-portal jgmenu lxappearance xfce4-power-manager xfce4-settings vdirsyncer khal moreutils fortune-mod wmctrl bc unzip bluez ImageMagick parcellite xclip pavucontrol rofimoji
+: 1654836504:0;sudo dnf install dbus-devel gcc git libconfig-devel libdrm-devel libev-devel libX11-devel libX11-xcb libXext-devel libxcb-devel mesa-libGL-devel meson pcre-devel pixman-devel uthash-devel xcb-util-image-devel xcb-util-renderutil-devel xorg-x11-proto-devel
+: 1654836527:0;sudo dnf install -y autoconf automake cairo-devel fontconfig gcc libev-devel libjpeg-turbo-devel libXinerama libxkbcommon-devel libxkbcommon-x11-devel libXrandr pam-devel pkgconf xcb-util-image-devel xcb-util-xrm-devel
+: 1654836549:0;git clone https://github.com/Raymo111/i3lock-color.git\
+cd i3lock-color
+: 1654836555:0;./install-i3lock-color.sh
+: 1654836615:0;git clone https://github.com/Arian8j2/picom-jonaburg-fix.git && cd picom-jonaburg-fix
+: 1654836629:0;git submodule update --init --recursive
+: 1654836642:0;git submodule update --init --recursive\
+meson --buildtype=release . build\
+ninja -C build\
+ninja -C build install 
+: 1654836716:0;sudo ninja -C build install
+: 1654836722:0;sudo ninja -C build
+: 1654836728:0;git submodule update --init --recursive\
+sudo meson --buildtype=release . build\
+ninja -C build\
+ninja -C build install 
+: 1654836770:0;git submodule update --init --recursive\
+sudo meson --buildtype=release . build\
+sudo ninja -C build\
+sudo ninja -C build install 
+: 1654836787:0;sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-36.noarch.rpm
+: 1654836804:0;sudo dnf install https://github.com/rpmsphere/noarch/raw/master/r/rpmsphere-release-36-1.noarch.rpm
+: 1654836824:0;sudo dnf install xprintidle
+: 1654836865:0;git clone https://github.com/cdemoulins/pamixer.git\
+
+: 1654836879:0;meson setup build
+: 1654836886:0;sudo meson setup build
+: 1654836894:0;sudo dnf install libpulse
+: 1654836937:0;sudo dnf install cxxopts-devel
+: 1654837027:0;sudo dnf install pulseaudio-libs-devel
+: 1654837045:0;sudo meson setup build\
+sudo meson compile -C build
+: 1654837056:0;sudo meson install -C build
+: 1654837077:0;wget -O /usr/bin/greenclip https://github.com/erebe/greenclip/releases/download/v4.2/greenclip
+: 1654837084:0;sudo wget -O /usr/bin/greenclip https://github.com/erebe/greenclip/releases/download/v4.2/greenclip
+: 1654837163:0;dc ..
+: 1654837206:0;sudo dnf install papirus-icon-theme
+: 1654837322:0;git clone https://github.com/catppuccin/papirus-folders.git\
+cd papirus-folders\
+sudo cp -r src/* /usr/share/icons/Papirus  \
+./papirus-folders -C blue --theme Papirus-Dark
+: 1654837479:0;cd Proxima-Nova-Font
+: 1654837486:0;sudo mv * /usr/share/fonts
+: 1654837499:0;git clone https://github.com/catppuccin/cursors.git\
+cd cursors\
+cd cursors\
+unzip Catppuccin-Mocha-Blue-Cursors.zip\
+sudo mv Catppuccin-Mocha-Blue-Cursors /usr/share/icons/
+: 1654837558:0;sudo dnf install sassc
+: 1654837617:0;git clone https://github.com/catppuccin/gtk
+: 1654837623:0;cd gtk
+: 1654837626:0;make package
+: 1654837653:0;make build
+: 1654837708:0;rm -rf *
+: 1654837712:0;git clone https://github.com/Fxzzi/catppuccin-factory
+: 1654837721:0;cd pamixer
+: 1654837735:0;cd catppuccin-factory
+: 1654837783:0;git clone https://github.com/syndrizzle/hotfiles && cd hotfiles
+: 1654837792:0;cp -r .config .cache .fonts .local .icons .scripts .wallpapers ~/\
+sudo cp -r usr/ /\
+sudo cp etc/slim.conf /etc/slim.conf\
+cp .gtkrc-2.0 .vimrc .xinitrc .Xresources ~/
+: 1654838714:0;sudo emacs .
+: 1654838725:0;sudo emacs 
+: 1654838748:0;cat awesome.desktop
+: 1654838758:0;nvim worm.desktop
+: 1654838817:0;sudo nvim worm.desktop
+: 1654838857:0;cd
+: 1654838863:0;cd .config/worm
+: 1654838867:0;cat rc
+: 1654844258:0;rm -rf worm
+: 1654844261:0;worm
+: 1654844546:0;las
+: 1654844556:0;lsa
+: 1654844560:0;-ls
+: 1654844561:0;exot
+: 1654844665:0;sudo dnf install gnome-tweaks
+: 1654846177:0;sudo dnf install lm_sensors-
+: 1654846187:0;sudo dnf install lm_sensors-3.6.0-11.fc36.x86_64
+: 1654846367:0;cd Do
+: 1654846370:0;cd Downloads
+: 1654846384:0;git clone https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbC1QZi1aU21qcURxUkZZZUhIOHpicHRRWll0Z3xBQ3Jtc0tsbW96ZUFQTzBKeHN6clRXSXUyc3Z2TTRPM2pZSFRVb3RyVFc0cHVtOVdSZGtxdkRrS1hIbXNPQzJaV1RTMldWQ3ZpeU0wR1dtcDVTZ1BjclFuSFNlOXcwZkNnakpOYmotYXFJTklUdGk3c1hrV2JxVQ&q=https%3A%2F%2Fgithub.com%2Fyilozt%2Fmutter-rounded&v=ZG0p5kxvwAg
+: 1654847442:0;sudo dnf groupinstall "KDE Plasma Workspaces"
+: 1654848126:0;reboot
+: 1655076359:0;neofetch
+: 1655076731:0;flatpak run com.discordapp.Discord
+: 1655601635:0;sudo dnf install discord
+: 1655608318:0;sudo dnf install firefox
+: 1655609367:0;flatpak run com.discordapp.Discord\
+: 1655609370:0;flatpak run com.discordapp.Discord &
+: 1655609943:0;cd /tmp
+: 1655609946:0;git clone git@github.com:LohanGuedes/libft.git
+: 1655609954:0;cd libft
+: 1655609972:0;git clone https://github.com/Tripouille/libftTester.git
+: 1655609981:0;make 
+: 1655610027:0;ks
+: 1655610030:0;cd..
+: 1655610039:0;rm -rf libft
+: 1655610061:0;git clone https://github.com/peguimasid/42-Libft
+: 1655610067:0;cd 42-Libft
+: 1655610078:0;git clone https://github.com/Tripouille/libftTester
+: 1655610102:0;..
+: 1655610109:0;mv 42-Libft ~/Downloads
+: 1655610119:0;cd ~/Downloads/42-Libft
+: 1655610125:0;cd libftTester
+: 1655610125:0;make
+: 1655610142:0;cd ..
+: 1655610188:0;s -la
+: 1655610189:0;ls -la
+: 1655610195:0;cd 
+: 1655610195:0;ls
+: 1655610325:0;exit
+: 1655620344:0;reboot
+: 1655631359:0;ls
+: 1655631361:0;cd Dev
+: 1655631362:0;ls
+: 1655631363:0;cd Ecole42
+: 1655631364:0;ls
+: 1655631366:0;cd ft_printf
+: 1655631366:0;ls
+: 1655631369:0;git status
+: 1655631371:0;cd ..
+: 1655631371:0;ls
+: 1655631372:0;cd.
+: 1655631374:0;cd
+: 1655631374:0;ls
+: 1655631377:0;cd .config
+: 1655631378:0;ls
+: 1655631382:0;ls -la
+: 1655631384:0;ls
+: 1655631407:0;cp -r awesome/ ~/dotfiles
+: 1655631415:0;cp -r alacritty ~/dotfiles
+: 1655631420:0;cp -r kitty ~/dotfiles
+: 1655631431:0;cp -r lsd ~/dotfiles
+: 1655631442:0;cp -r zsh ~/dotfiles
